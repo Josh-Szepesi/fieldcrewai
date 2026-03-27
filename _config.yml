@@ -1,0 +1,31 @@
+title: "Field Crew AI"
+description: "AI-powered marketing, lead automation, and operations for home services contractors. Built for roofing, HVAC, plumbing, and electrical."
+url: "https://fieldcrewai.com"
+baseurl: ""
+theme: minima
+
+author:
+  name: Field Crew AI
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+feed:
+  path: feed.xml
+
+# All posts served at /blog/slug/
+permalink: /blog/:slug/
+
+social:
+  name: Field Crew AI
+  links:
+    - https://fieldcrewai.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - wrangler.toml
+  - blog/
