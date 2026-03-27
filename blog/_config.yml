@@ -1,0 +1,35 @@
+title: "Field Crew AI Blog"
+description: "Practical marketing, SEO, and automation guides for home services contractors — roofing, HVAC, plumbing, and electrical."
+url: "https://blog.fieldcrewai.com"
+baseurl: ""
+theme: minima
+
+# Author
+author:
+  name: Field Crew AI
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+feed:
+  path: feed.xml
+
+# SEO
+twitter:
+  username: fieldcrewai
+  card: summary_large_image
+
+social:
+  name: Field Crew AI
+  links:
+    - https://fieldcrewai.com
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - wrangler.toml
