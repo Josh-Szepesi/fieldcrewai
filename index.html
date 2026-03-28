@@ -448,21 +448,31 @@
     e.preventDefault();
     btn.disabled = true;
     btn.textContent = 'Sending...';
-    var data = {
-      name:    form.name.value.trim(),
-      email:   form.email.value.trim(),
-      phone:   form.phone.value.trim(),
-      trade:   form.trade.value,
-      message: form.message.value.trim(),
+
+    var fullName = form.name.value.trim().split(' ');
+    var firstname = fullName[0] || '';
+    var lastname  = fullName.slice(1).join(' ') || '';
+
+    var fields = [
+      { name: 'firstname', value: firstname },
+      { name: 'lastname',  value: lastname },
+      { name: 'email',     value: form.email.value.trim() },
+      { name: 'phone',     value: form.phone.value.trim() },
+      { name: 'message',   value: form.message.value.trim() },
+    ];
+
+    var payload = {
+      fields: fields,
+      context: { pageUri: window.location.href, pageName: document.title },
     };
-    fetch('/api/contact', {
+
+    fetch('https://api.hsforms.com/submissions/v3/integration/submit/343140521/bb7cd4a4-e6a3-4309-badd-03ce0d6d673d', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(data),
+      body: JSON.stringify(payload),
     })
-    .then(function (res) { return res.json(); })
-    .then(function (json) {
-      if (json.success) {
+    .then(function (res) {
+      if (res.ok) {
         btn.textContent = 'Request Sent!';
         form.reset();
       } else {
