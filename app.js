@@ -120,4 +120,55 @@
     });
   });
 
+  // ---- Contact Form Submission ----
+  const contactForm = document.getElementById('contact-form');
+  if (contactForm) {
+    contactForm.addEventListener('submit', async function (e) {
+      e.preventDefault();
+      const btn = contactForm.querySelector('.btn');
+      btn.textContent = 'Sending…';
+      btn.disabled = true;
+
+      const data = {
+        name:    contactForm.querySelector('[name="name"]').value.trim(),
+        email:   contactForm.querySelector('[name="email"]').value.trim(),
+        phone:   (contactForm.querySelector('[name="phone"]') || {}).value || '',
+        trade:   (contactForm.querySelector('[name="trade"]') || {}).value || '',
+        message: (contactForm.querySelector('[name="message"]') || {}).value || ''
+      };
+
+      // Submit to HubSpot
+      try {
+        await fetch(
+          'https://api.hsforms.com/submissions/v3/integration/submit/343140521/bb7cd4a4-e6a3-4309-badd-03ce0d6d673d',
+          {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              fields: [
+                { name: 'firstname', value: data.name.split(' ')[0] },
+                { name: 'lastname',  value: data.name.split(' ').slice(1).join(' ') },
+                { name: 'email',     value: data.email },
+                { name: 'phone',     value: data.phone },
+                { name: 'industry',  value: data.trade },
+                { name: 'message',   value: data.message }
+              ]
+            })
+          }
+        );
+      } catch (err) {
+        console.warn('HubSpot submission error:', err);
+      }
+
+      // Fire lead agent (fire-and-forget — never blocks or fails the user)
+      fetch('https://leads.fieldcrewai.com/lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      }).catch(function () {});
+
+      btn.textContent = 'Message Sent!';
+    });
+  }
+
 })();
