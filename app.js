@@ -167,7 +167,14 @@
         body: JSON.stringify(data)
       }).catch(function () {});
 
-      btn.textContent = 'Message Sent!';
+      // Clear the form and show confirmation
+      contactForm.reset();
+      contactForm.innerHTML =
+        '<div class="form-success" role="alert">' +
+          '<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="9 12 11 14 15 10"/></svg>' +
+          '<h3>You\'re all set!</h3>' +
+          '<p>Thanks for reaching out. We\'ll be in touch within one business day.</p>' +
+        '</div>';
     });
   }
 
