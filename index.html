@@ -376,7 +376,7 @@
         </div>
       </div>
       <div class="contact__form-wrap">
-        <form class="contact__form" onsubmit="event.preventDefault(); this.querySelector('.btn').textContent='Message Sent!'; this.querySelector('.btn').disabled=true;">
+        <form class="contact__form" id="contact-form">
           <div class="form-group">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" placeholder="John Smith" required>
@@ -404,7 +404,7 @@
             <label for="message">How can we help?</label>
             <textarea id="message" name="message" rows="3" placeholder="Tell us a bit about your business..."></textarea>
           </div>
-          <button type="submit" class="btn btn--primary btn--lg btn--full">Book My Free Strategy Call</button>
+          <button type="submit" id="contact-submit" class="btn btn--primary btn--lg btn--full">Book My Free Strategy Call</button>
         </form>
       </div>
     </div>
@@ -439,5 +439,42 @@
 </footer>
 
 <script src="./app.js" defer></script>
+<script>
+(function () {
+  var form = document.getElementById('contact-form');
+  var btn  = document.getElementById('contact-submit');
+  if (!form) return;
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    btn.disabled = true;
+    btn.textContent = 'Sending...';
+    var data = {
+      name:    form.name.value.trim(),
+      email:   form.email.value.trim(),
+      phone:   form.phone.value.trim(),
+      trade:   form.trade.value,
+      message: form.message.value.trim(),
+    };
+    fetch('/api/contact', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data),
+    })
+    .then(function (res) { return res.json(); })
+    .then(function (json) {
+      if (json.success) {
+        btn.textContent = 'Request Sent!';
+        form.reset();
+      } else {
+        btn.textContent = 'Something went wrong — try again';
+        btn.disabled = false;
+      }
+    })
+    .catch(function () {
+      btn.textContent = 'Something went wrong — try again';
+      btn.disabled = false;
+    });
+  });
+})();
+</script>
 </body>>
-
