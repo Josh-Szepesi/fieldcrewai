@@ -72,10 +72,9 @@ None of these pieces are expensive or technically complex on their own. The chal
 
 The HVAC companies that are pulling ahead in competitive markets aren't necessarily spending more on advertising. They're just losing fewer of the leads they already get.
 
----
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) -- we'll audit your business and show you exactly where the gaps are.
-
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
