@@ -63,6 +63,11 @@ Here is how the four main options stack up:
 | FieldPulse | Budget-conscious growing crews | ~$99/mo flat | Yes | No | Yes |
 | Google Calendar | Solo or very early stage | Free | Yes | No | No |
 
+
+<div class="post-cta">
+<strong>Not sure which tool fits your business?</strong> <a href="https://fieldcrewai.com/#contact">Talk to us</a> and we will tell you exactly which platform makes sense for your crew size and trade.
+</div>
+
 ## Scheduling Software and Your Bottom Line
 
 A scheduling app does not just save time. When your crew is properly dispatched and job details are captured consistently, you collect data on which jobs run over schedule, which crew members complete more work per day, and where non-billable drive time is going. That feeds directly into smarter job costing -- we cover that process in detail in our guide on [tracking job costs for a small contracting business](/blog/contractor-job-cost-tracking/).
@@ -84,9 +89,9 @@ The biggest mistake contractors make with scheduling software is shopping indefi
 
 If you are under 10 crew members and primarily doing residential service work, start with Jobber. If you are in HVAC, plumbing, or electrical and deal with a lot of same-day dispatch, try Housecall Pro. If cost is the main constraint, FieldPulse gives you the essentials without the enterprise price tag.
 
----
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) -- we will audit your business and show you exactly where the gaps are.
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
