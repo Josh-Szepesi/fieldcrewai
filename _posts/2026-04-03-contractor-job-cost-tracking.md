@@ -118,11 +118,9 @@ Job cost tracking becomes genuinely useful when you review it regularly. Once a 
 
 This 30-minute review will do more for your business than most software investments. It connects you to what's actually happening in your numbers and surfaces the decisions -- supplier relationships, crew assignments, job complexity thresholds -- that are quietly making or costing you money.
 
----
-
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) - we'll audit your business and show you exactly where the gaps are.
-
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
