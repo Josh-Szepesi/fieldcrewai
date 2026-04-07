@@ -53,6 +53,11 @@ Aim to add new photos at least once a month. Google rewards active listings, and
 
 [Want help setting up an automated system to keep your GBP updated and generating leads? Let's talk.](https://fieldcrewai.com/#contact)
 
+
+<div class="post-cta">
+<strong>Want help getting your Google Business Profile fully optimized?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## Step 3: Get Reviews -- and Respond to All of Them
 
 Reviews are the most powerful ranking factor in local search after proximity and category. More reviews, higher average rating, and more recent reviews all push you higher in the local pack.
