@@ -72,6 +72,11 @@ Want help figuring out which tools actually fit your size and workflow? [Book a 
 
 ---
 
+
+<div class="post-cta">
+<strong>Want help setting up job cost tracking that your crew will actually use?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## How to Track Job Costs Without Your Crew Buying In
 
 The biggest failure point for job cost tracking is crew compliance. You can have the best software in the world, but if your foreman is still writing hours on paper napkins and turning them in on Fridays, your data will be unreliable.
