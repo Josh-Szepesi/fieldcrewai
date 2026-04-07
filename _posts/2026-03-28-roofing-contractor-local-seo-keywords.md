@@ -47,6 +47,11 @@ This sounds tedious but it works. Google wants to return results that are releva
 
 Think about every zip code or town you've done work in over the past two years. Each one of those is a potential page, and each page is an opportunity to capture searches from people in that specific area.
 
+
+<div class="post-cta">
+<strong>Want to know exactly which keywords to target in your market?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## Keyword 4: Trade-Specific Problem Terms
 
 "How much does a roof replacement cost in [city]", "how long does a roof last", "signs I need a new roof" -- these are informational searches, but the right ones can bring in high-intent traffic.
