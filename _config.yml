@@ -4,8 +4,7 @@ url: "https://fieldcrewai.com"
 baseurl: ""
 theme: minima
 
-author:
-  name: Field Crew AI
+author: "Field Crew AI"
 
 plugins:
   - jekyll-feed
