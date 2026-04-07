@@ -101,10 +101,9 @@ Then look at your Google Business Profile. Is it complete? Do you have recent re
 
 After that, look at whether you're ranking for the keywords that matter. If you're not showing up for "[your service] [your city]", that's the bigger SEO work -- but it's what drives the volume of contractor website leads over time.
 
----
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) -- we'll audit your business and show you exactly where the gaps are.
-
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
