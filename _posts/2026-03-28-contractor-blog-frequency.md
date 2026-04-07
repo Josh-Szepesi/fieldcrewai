@@ -43,6 +43,11 @@ At one post per month, you'll have 12 pieces of targeted content at the end of a
 
 Two posts per month accelerates this. Four per month accelerates it further. But only if the quality holds. The moment you start publishing thin, repetitive, or generic content to hit a quota, you're wasting time and potentially hurting your rankings.
 
+
+<div class="post-cta">
+<strong>Want a content system that runs without you managing every post?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## What to Write About
 
 The easiest way to come up with topics is to think about the questions you hear from customers all the time. "How much does this cost?" "How long does it take?" "How do I know if I need this or just a repair?" "What should I look for in a contractor?"
