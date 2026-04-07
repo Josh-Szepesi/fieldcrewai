@@ -72,10 +72,9 @@ Once you've got the habit and you're seeing some early traction, consider scalin
 
 The goal isn't to be a prolific publisher. It's to have a growing library of useful, locally-relevant content that keeps working for you month after month, long after you wrote it.
 
----
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) -- we'll audit your business and show you exactly where the gaps are.
-
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
