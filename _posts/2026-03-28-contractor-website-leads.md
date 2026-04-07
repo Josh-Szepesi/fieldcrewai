@@ -68,6 +68,11 @@ Google also uses mobile performance as a ranking signal. A site that loads slowl
 
 Run your site through [Google's PageSpeed Insights](https://pagespeed.web.dev/) and look at your mobile score. Anything below 70 is a real problem. Below 50, and you're actively being penalized.
 
+
+<div class="post-cta">
+<strong>Want us to audit your site and show you where leads are slipping through?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## You're Not Capturing Leads Who Aren't Ready to Call Yet
 
 Here's something most contractor sites completely miss: not everyone who visits your site is ready to pick up the phone right now.
