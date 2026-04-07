@@ -76,10 +76,9 @@ Keywords 4 and 5 are blog and content plays. They take longer to rank but they b
 
 The roofing contractor local SEO keywords that matter most are the ones people in your service area are actually typing right now. Start there, build outward, and be patient -- most of these terms start to move within 3 to 6 months of consistent effort.
 
----
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) -- we'll audit your business and show you exactly where the gaps are.
-
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
