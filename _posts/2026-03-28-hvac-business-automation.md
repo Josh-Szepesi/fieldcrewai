@@ -49,6 +49,11 @@ You set it up once. It runs every year. The customers who are ready to book will
 
 We've worked with contractors who get 10 to 20 booked appointments from a single seasonal campaign with minimal ongoing effort. That's revenue from a list of people you already have.
 
+
+<div class="post-cta">
+<strong>Want to see which automations make sense for your HVAC business right now?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## Review Request Automation
 
 HVAC companies live and die on their Google reviews. When someone searches for HVAC repair in your city, they compare the three or four businesses that show up based almost entirely on review count and rating.
