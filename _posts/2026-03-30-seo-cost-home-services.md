@@ -62,6 +62,11 @@ You can manage your own Google Business Profile, respond to reviews, post update
 
 What's harder to do yourself is link building and technical SEO. Link building requires outreach, relationships, and time most contractors don't have. Technical SEO requires knowing what to look for in site speed, schema markup, and crawl errors - and knowing how to fix them. These are the areas where paying for help makes sense if you're in a competitive market.
 
+
+<div class="post-cta">
+<strong>Want a realistic SEO plan sized for your budget?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+</div>
+
 ## Is SEO Worth It for a Contracting Business?
 
 Yes - but not on every timeline, and not if your website has deeper problems first. [If your site isn't converting visitors into leads, no amount of SEO traffic will fix that.](/blog/contractor-website-leads/) Traffic to a broken site is wasted traffic.
