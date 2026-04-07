@@ -93,9 +93,9 @@ Budget $750 to $1,500 per month if you're serious about SEO for a single-locatio
 
 And fix your website first. SEO drives traffic - but if that traffic lands on a slow, broken site with no clear call to action, you're paying to send people somewhere they won't convert.
 
----
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) - we'll audit your business and show you exactly where the gaps are.
----
+<div class="post-cta">
+<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+</div>
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
