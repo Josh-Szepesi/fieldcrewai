@@ -12,7 +12,7 @@ tags: [contractors, lead-generation, marketing, seo]
 
 When a homeowner needs a roofer, plumber, or HVAC tech, the first thing they do is open Google and look at reviews. Not your website. Not your Facebook page. Google reviews. A contractor with 4.8 stars and 60 reviews will win against a competitor with 4.2 stars and 8 reviews almost every time, even if the lower-rated contractor does better work.
 
-We work with contractors who are great at their trade but leave reviews on the table every single day. The fix is rarely complicated. It is almost always a process problem, not a quality problem. <!-- PROOF POINT: Add a real client result here, e.g. 'We worked with a [trade] contractor in [city] who went from X to Y reviews in Z months after systematizing this.' -->
+We work with contractors who are great at their trade but leave reviews on the table every single day. The fix is rarely complicated. It is almost always a process problem, not a quality problem. According to [BrightLocal's Local Consumer Review Survey](https://www.brightlocal.com/research/local-consumer-review-survey/), 98% of consumers read online reviews for local businesses — and the majority say they trust reviews as much as personal recommendations. The review behavior is already there. The gap is that most contractors never ask.
 
 ## Why Google Reviews Matter More Than Ever for Contractors
 
