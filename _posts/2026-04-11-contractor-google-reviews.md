@@ -12,7 +12,7 @@ tags: [contractors, lead-generation, marketing, seo]
 
 When a homeowner needs a roofer, plumber, or HVAC tech, the first thing they do is open Google and look at reviews. Not your website. Not your Facebook page. Google reviews. A contractor with 4.8 stars and 60 reviews will win against a competitor with 4.2 stars and 8 reviews almost every time, even if the lower-rated contractor does better work.
 
-We work with contractors who are great at their trade but leave reviews on the table every single day. The fix is rarely complicated. It is almost always a process problem, not a quality problem.
+We work with contractors who are great at their trade but leave reviews on the table every single day. The fix is rarely complicated. It is almost always a process problem, not a quality problem. <!-- PROOF POINT: Add a real client result here, e.g. 'We worked with a [trade] contractor in [city] who went from X to Y reviews in Z months after systematizing this.' -->
 
 ## Why Google Reviews Matter More Than Ever for Contractors
 
@@ -112,7 +112,7 @@ Flag the review in Google Business Profile using the "Report a review" option an
 Role-play the ask once during a team meeting and make it part of job close just like collecting payment or leaving a site clean. When it is a normal step in the process rather than a special favor to ask, it stops feeling awkward. Crew members who bring in reviews can also be recognized internally. This does not mean paying for reviews, just acknowledging the behavior you want to reinforce.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Want a review request system your crew will actually use?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will build you a repeatable process that runs without you chasing it.
 </div>
 
 <div class="author-bio">
