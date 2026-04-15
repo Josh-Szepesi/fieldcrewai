@@ -9,12 +9,13 @@ tags: [contractors, business management, marketing, seasonal planning]
 
 # How to Handle Seasonal Slowdowns as a Contractor
 
-![man in green and yellow jacket wearing white helmet standing on road during daytime](/assets/images/2026-04-15-how-to-handle-seasonal-slowdowns-as-a-contractor.jpg)
-<p class="image-credit">Photo by <a href="https://unsplash.com/@theshuttervision?utm_source=fieldcrewai_blog&utm_medium=referral">Jonathan Cooper</a> on <a href="https://unsplash.com/?utm_source=fieldcrewai_blog&utm_medium=referral">Unsplash</a></p>
 
 Most contractors treat the off-season like an unavoidable vacation they never asked for. When the phones stop ringing in the dead of winter or the heat of late summer, the immediate reaction is often to slash prices or cut marketing spend entirely. We have seen that this is exactly the opposite of what high-growth companies do.
 
 The most successful home services businesses do not just wait for the weather to change. They use quiet periods to build a pipeline that carries them through the rest of the year. By shifting your focus from emergency repairs to proactive maintenance and database re-engagement, you can keep your revenue steady even when the weather is mild.
+
+![man in green and yellow jacket wearing white helmet standing on road during daytime](/assets/images/2026-04-15-how-to-handle-seasonal-slowdowns-as-a-contractor.jpg)
+<p class="image-credit">Photo by <a href="https://unsplash.com/@theshuttervision?utm_source=fieldcrewai_blog&utm_medium=referral">Jonathan Cooper</a> on <a href="https://unsplash.com/?utm_source=fieldcrewai_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Steps to Stabilize Revenue During a Seasonal Slowdown
 
