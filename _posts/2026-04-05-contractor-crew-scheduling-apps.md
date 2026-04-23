@@ -95,5 +95,5 @@ If you are under 10 crew members and primarily doing residential service work, s
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
-  <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at Roofr. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
+  <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
 </div>
