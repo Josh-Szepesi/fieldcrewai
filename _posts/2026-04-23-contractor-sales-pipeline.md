@@ -55,7 +55,7 @@ Your CRM should automate the reminders for these follow-ups. If an estimate rema
 Building your first pipeline does not require a week of downtime. You can set up a functional, high-converting system in a single afternoon if you follow a logical framework. The goal is to move from chaos to a "Single Source of Truth."
 
 1.  **Audit Your Lead Sources:** List every way a customer can contact you (Website, Google, Facebook, Referrals, Phone). 
-2.  **Select Your CRM Tool:** Choose a platform that fits your trade. For roofers, Roofr or Jobber are excellent. For general contractors, Pipedrive or HubSpot offer more flexibility. Avoid building this in a general tool like Trello unless you are prepared to do a lot of manual setup.
+2.  **Select Your CRM Tool:** Choose a platform that fits your trade. For roofers, Jobber are excellent. For general contractors, Pipedrive or HubSpot offer more flexibility. Avoid building this in a general tool like Trello unless you are prepared to do a lot of manual setup.
 3.  **Map Your Stages:** Use the five stages discussed earlier: New Lead, Appointment Set, Estimate Sent, Follow-up, and Won/Lost. 
 4.  **Connect Your Forms:** Use a tool like Zapier to ensure that when a form is filled out on your site, a "Deal" is automatically created in your CRM's "New Lead" column.
 5.  **Draft Your Templates:** Write three standard follow-up emails and two text messages. Save these as templates in your CRM so you can send them with one click.
@@ -95,5 +95,5 @@ A pipeline is not a "set it and forget it" tool. It is a living part of your dai
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
-  <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at Roofr. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
+  <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
 </div>
