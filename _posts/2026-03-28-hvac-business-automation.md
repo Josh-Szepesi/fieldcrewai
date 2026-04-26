@@ -33,7 +33,7 @@ If someone fills out a contact form on your website at 11pm, what happens next? 
 
 Research from [Harvard Business Review](https://hbr.org/2011/03/the-short-life-of-online-sales-leads) found that the odds of converting a lead drop by more than 10x if you wait longer than an hour to follow up. For HVAC, where decisions often get made fast (especially in emergencies), that window is even shorter.
 
-[Let Field Crew AI set up automated lead follow-up for your HVAC business.](https://fieldcrewai.com/#contact)
+[Let Field Crew AI set up automated lead follow-up for your HVAC business.](https://fieldcrewai.com/#assessment)
 
 A basic automation here looks like this: web form submission triggers an instant text to the lead confirming you received their request, followed by an automated email with your availability, followed by a task in your CRM for someone to call them back within the hour during business hours.
 
@@ -51,7 +51,7 @@ We've worked with contractors who get 10 to 20 booked appointments from a single
 
 
 <div class="post-cta">
-<strong>Want to see which automations make sense for your HVAC business right now?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Want to see which automations make sense for your HVAC business right now?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Review Request Automation
@@ -73,7 +73,7 @@ None of these pieces are expensive or technically complex on their own. The chal
 The HVAC companies that are pulling ahead in competitive markets aren't necessarily spending more on advertising. They're just losing fewer of the leads they already get.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
