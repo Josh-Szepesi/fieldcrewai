@@ -65,7 +65,7 @@ Here is how the four main options stack up:
 
 
 <div class="post-cta">
-<strong>Not sure which tool fits your business?</strong> <a href="https://fieldcrewai.com/#contact">Talk to us</a> and we will tell you exactly which platform makes sense for your crew size and trade.
+<strong>Not sure which tool fits your business?</strong> <a href="https://fieldcrewai.com/#assessment">Talk to us</a> and we will tell you exactly which platform makes sense for your crew size and trade.
 </div>
 
 ## Scheduling Software and Your Bottom Line
@@ -90,7 +90,7 @@ The biggest mistake contractors make with scheduling software is shopping indefi
 If you are under 10 crew members and primarily doing residential service work, start with Jobber. If you are in HVAC, plumbing, or electrical and deal with a lot of same-day dispatch, try Housecall Pro. If cost is the main constraint, FieldPulse gives you the essentials without the enterprise price tag.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
