@@ -63,7 +63,7 @@ Send it with a short covering message. Don't just attach a PDF and hit send. Wri
 Follow up. Send a follow-up message three to five days after sending the estimate if you haven't heard back. Most contractors don't. The ones who do close more jobs. If you're looking to build a system around this, our post on [how to generate leads with a contractor website](/2026-03-28-contractor-website-leads) covers the full funnel from first visit to booked job.
 
 <div class="post-cta">
-<strong>Not sure why your estimates aren't converting?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Not sure why your estimates aren't converting?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Estimate Software vs. Paper vs. Spreadsheet: Which Is Right for You
@@ -112,7 +112,7 @@ Industry benchmarks vary by trade, but a close rate of 30-50% on qualified leads
 A template works fine when you're just starting out. As your volume grows, the tracking and follow-up features in dedicated software become more valuable than the template itself. The breakeven point for most contractors is around 8-10 estimates per month.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
