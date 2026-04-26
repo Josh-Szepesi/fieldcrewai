@@ -86,7 +86,7 @@ Submit your application to the state licensing board with your exam results, pro
 Most licenses require renewal every 1-2 years. Some states require continuing education hours. Set a calendar reminder 90 days before your renewal date.
 
 <div class="post-cta">
-<strong>Not sure whether your current setup is leaving you exposed?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Not sure whether your current setup is leaving you exposed?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Choosing the Right Coverage Amounts: A Decision Framework
@@ -141,7 +141,7 @@ From start to finish, expect 3-6 months if you already meet the experience requi
 No. A surety bond is a financial guarantee that you will complete the job or the bonding company will pay the client up to the bond amount. It protects the customer, not you. Insurance protects you (and the customer in the case of damage). Most states require both, and they serve different purposes.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
