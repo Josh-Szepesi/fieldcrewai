@@ -17,6 +17,18 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231a1f2e'/%3E%3Cpath d='M8 22V10l8 6-8 6z' fill='%23e8782a'/%3E%3Crect x='18' y='10' width='6' height='12' rx='1' fill='%23e8782a'/%3E%3C/svg%3E">
 
 <link rel="stylesheet" href="./style.css">
+<style>
+.assessment { padding: var(--section-padding) 0; background: var(--color-surface); }
+.assessment__layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; }
+.assessment__desc { color: var(--color-text-muted); margin-bottom: 1.5rem; }
+.assessment__list { list-style: none; padding: 0; margin: 1.5rem 0; display: flex; flex-direction: column; gap: 0.75rem; }
+.assessment__list li { padding-left: 1.5rem; position: relative; color: var(--color-text-muted); }
+.assessment__list li::before { content: '\2192'; position: absolute; left: 0; color: var(--color-accent); }
+.assessment__note { font-size: 0.875rem; color: var(--color-text-muted); margin-top: 1.5rem; font-style: italic; }
+.assessment__calendly { border-radius: 12px; overflow: hidden; }
+@media (max-width: 768px) { .assessment__layout { grid-template-columns: 1fr; } }
+</style>
+
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">
@@ -54,8 +66,9 @@
         <li><a href="#how-it-works" class="nav__link">How It Works</a></li>
         <li><a href="#about" class="nav__link">About</a></li>
         <li><a href="#faq" class="nav__link">FAQ</a></li>
+        <li><a href="#assessment" class="nav__link">Discovery Call</a></li>
         <li><a href="/blog" class="nav__link">Blog</a></li>
-        <li><a href="#contact" class="nav__cta">Book a Call</a></li>
+        <li><a href="#assessment" class="nav__cta">Book a Call</a></li>
       </ul>
     </nav>
     <button class="nav-toggle" id="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="nav">
@@ -81,10 +94,10 @@
   </div>
   <div class="container hero__content">
     <div class="hero__badge">For Home Services Contractors</div>
-    <h1 id="hero-heading" class="hero__heading">We automate your marketing, lead follow-up, scheduling, and production.</h1>
-    <p class="hero__sub">From first click to finished job, we map your process, build the systems, and automate the work that eats your time.</p>
+    <h1 id="hero-heading" class="hero__heading">Stop Letting Good Work Fall Through the Cracks.</h1>
+    <p class="hero__sub">You built a good operation. The parts that should run on their own still run on you. We build the systems that give you your time back and keep jobs from slipping through the gaps.</p>
     <div class="hero__actions">
-      <a href="#contact" class="btn btn--primary btn--lg">Book a Free Strategy Call</a>
+      <a href="#assessment" class="btn btn--primary btn--lg">Book a Free Discovery Call</a>
     </div>
     <div class="hero__proof">
       <div class="hero__proof-item">
@@ -240,7 +253,7 @@
       </div>
     </div>
     <div class="how-it-works__cta">
-      <a href="#contact" class="btn btn--primary btn--lg">Get Your Free Audit</a>
+      <a href="#assessment" class="btn btn--primary btn--lg">Book a Free Discovery Call</a>
     </div>
   </div>
 </section>
@@ -356,22 +369,52 @@
   </div>
 </section>
 
+<!-- ========== ASSESSMENT / DISCOVERY CALL ========== -->
+<section class="assessment" id="assessment" aria-labelledby="assessment-heading">
+  <div class="container">
+    <div class="assessment__layout">
+      <div class="assessment__text">
+        <span class="section-label">Free Assessment</span>
+        <h2 id="assessment-heading" class="section-heading">Free 30-Minute Efficiency Discovery Call</h2>
+        <p class="assessment__desc">There's a lot of AI noise aimed at contractors right now. Hard to know what's real and what's worth your time.</p>
+        <p>In 30 minutes, I go through your actual setup and give you a clear read on where the gaps are. You'll walk away knowing exactly what to fix first and what to leave alone. If it makes sense to work together after that, we'll talk about it.</p>
+        <ul class="assessment__list" role="list">
+          <li>Where leads are falling through and what to do about it</li>
+          <li>What's worth automating in your specific operation</li>
+          <li>What to skip (most of the AI stuff aimed at contractors isn't worth your time)</li>
+        </ul>
+        <p class="assessment__note">The call is free for now. Spots are limited each month. Pick a time below.</p>
+      </div>
+      <div class="assessment__calendly">
+        <!-- Calendly inline widget begin -->
+        <div class="calendly-inline-widget" data-url="https://calendly.com/josh-fieldcrewai/strategy" style="min-width:320px;height:700px;"></div>
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        <!-- Calendly inline widget end -->
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- ========== CONTACT / CTA ========== -->
 <section class="contact" id="contact" aria-labelledby="contact-heading">
   <div class="container">
     <div class="contact__layout">
       <div class="contact__text">
-        <span class="section-label section-label--light">Get Started</span>
-        <h2 id="contact-heading" class="section-heading section-heading--light">Ready to Stop Leaving Money on the Table?</h2>
-        <p class="contact__desc">Book a free strategy call. We'll look at your business, show you where the gaps are, and build a plan to fix them. No pressure. No contracts. Just a conversation.</p>
+        <span class="section-label section-label--light">Or Send a Message</span>
+        <h2 id="contact-heading" class="section-heading section-heading--light">Prefer to Reach Out First?</h2>
+        <p class="contact__desc">Fill in the form and we'll get back to you. Most folks book a call directly above, but either way works.</p>
         <div class="contact__methods">
           <div class="contact__method">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
             <span>fieldcrewai.com/contact</span>
           </div>
           <div class="contact__method">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91"/></svg>
+            <span>1.587.330.3602</span>
+          </div>
+          <div class="contact__method">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-            <span>hello@fieldcrewai.com</span>
+            <span>Josh@fieldcrewai.com</span>
           </div>
         </div>
       </div>
@@ -412,7 +455,7 @@
             <label for="message">How can we help?</label>
             <textarea id="message" name="message" rows="3" placeholder="Tell us a bit about your business..."></textarea>
           </div>
-          <button type="submit" id="contact-submit" class="btn btn--primary btn--lg btn--full">Book My Free Strategy Call</button>
+          <button type="submit" id="contact-submit" class="btn btn--primary btn--lg btn--full">Send Message</button>
         </form>
       </div>
     </div>
@@ -437,6 +480,7 @@
       <a href="#how-it-works">How It Works</a>
       <a href="#about">About</a>
       <a href="#faq">FAQ</a>
+      <a href="#assessment">Discovery Call</a>
       <a href="/blog">Blog</a>
       <a href="#contact">Contact</a>
     </div>
