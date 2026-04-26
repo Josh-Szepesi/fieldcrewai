@@ -52,7 +52,7 @@ Another mistake is ignoring the cost of lead acquisition. If you spend 500 dolla
 Finally, we see many owners try to match the price of the "guy with a truck" who has no insurance and no overhead. You cannot compete with lowballers on price alone. You must sell your warranty, your reputation, and your professional process instead.
 
 <div class="post-cta">
-<strong>Are your current estimates leaving money on the table?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are in your pricing and lead follow-up.
+<strong>Are your current estimates leaving money on the table?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> and we will show you exactly where the gaps are in your pricing and lead follow-up.
 </div>
 
 ## How to Price Roofing Jobs to Beat the Competition
@@ -80,7 +80,7 @@ You should verify pricing with your local distributor at least once a month. Mat
 Most successful residential roofing companies aim for a gross profit margin between 30 and 40 percent. After paying for all overhead and administrative expenses, the goal is typically a net profit of 10 to 15 percent. These margins provide the cash flow necessary to weather slow seasons and invest in better equipment.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads to the competition?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
