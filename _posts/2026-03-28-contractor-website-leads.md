@@ -54,7 +54,7 @@ The homepage should answer those three questions before the visitor has to scrol
 
 This one surprises people. You'd think that if someone is on your website, they know they can call you. But without a strong, repeated call to action, a lot of visitors just... leave.
 
-[Get a free audit of your contractor website from Field Crew AI](https://fieldcrewai.com/#contact) -- we'll show you exactly what's costing you leads.
+[Book a free 30-minute Efficiency Discovery Call of your contractor website from Field Crew AI](https://fieldcrewai.com/#assessment) -- we'll show you exactly what's costing you leads.
 
 Every page on your site should have a prominent call to action. That means a phone number people can tap on mobile, a contact form that's short enough to actually fill out, and ideally an option to schedule or request a quote. The easier you make it for someone to take the next step, the more of them will.
 
@@ -70,7 +70,7 @@ Run your site through [Google's PageSpeed Insights](https://pagespeed.web.dev/) 
 
 
 <div class="post-cta">
-<strong>Want us to audit your site and show you where leads are slipping through?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Want us to audit your site and show you where leads are slipping through?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## You're Not Capturing Leads Who Aren't Ready to Call Yet
@@ -102,7 +102,7 @@ Then look at your Google Business Profile. Is it complete? Do you have recent re
 After that, look at whether you're ranking for the keywords that matter. If you're not showing up for "[your service] [your city]", that's the bigger SEO work -- but it's what drives the volume of contractor website leads over time.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
