@@ -68,13 +68,13 @@ We've tested a lot of options with contractors. Here's what actually matters in 
 
 **Real-time cost vs. budget view.** The best tools show you a live burn rate as the job progresses. If you're 60% through a roofing job and you've spent 80% of your materials budget, that's a warning sign you need to see mid-job, not at closeout.
 
-Want help figuring out which tools actually fit your size and workflow? [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) and we'll walk through what makes sense for your operation.
+Want help figuring out which tools actually fit your size and workflow? [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment) and we'll walk through what makes sense for your operation.
 
 ---
 
 
 <div class="post-cta">
-<strong>Want help setting up job cost tracking that your crew will actually use?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Want help setting up job cost tracking that your crew will actually use?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## How to Track Job Costs Without Your Crew Buying In
@@ -119,7 +119,7 @@ Job cost tracking becomes genuinely useful when you review it regularly. Once a 
 This 30-minute review will do more for your business than most software investments. It connects you to what's actually happening in your numbers and surfaces the decisions -- supplier relationships, crew assignments, job complexity thresholds -- that are quietly making or costing you money.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
