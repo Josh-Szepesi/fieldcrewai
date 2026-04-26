@@ -62,7 +62,7 @@ Contractors get asked about Yelp, Angi, Houzz, HomeAdvisor, Facebook, and BBB. H
 **Which is right for you:** If you are a roofing, HVAC, plumbing, or electrical contractor serving residential customers, Google is where to spend 90% of your review effort. For context on how much this kind of organic visibility is worth compared to paid strategies, see our breakdown of [what SEO actually costs for a home services business](/2026/03/30/seo-cost-home-services/). Facebook is worth maintaining but should not be your primary focus. Everything else is secondary until you have at least 50 Google reviews.
 
 <div class="post-cta">
-<strong>Not sure why your Google reviews are not converting into more calls?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Not sure why your Google reviews are not converting into more calls?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Common Mistakes That Kill Your Review Count
@@ -112,7 +112,7 @@ Flag the review in Google Business Profile using the "Report a review" option an
 Role-play the ask once during a team meeting and make it part of job close just like collecting payment or leaving a site clean. When it is a normal step in the process rather than a special favor to ask, it stops feeling awkward. Crew members who bring in reviews can also be recognized internally. This does not mean paying for reviews, just acknowledging the behavior you want to reinforce.
 
 <div class="post-cta">
-<strong>Want a review request system your crew will actually use?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will build you a repeatable process that runs without you chasing it.
+<strong>Want a review request system your crew will actually use?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> and we will build you a repeatable process that runs without you chasing it.
 </div>
 
 <div class="author-bio">
