@@ -27,6 +27,8 @@
 .assessment__note { font-size: 0.875rem; color: var(--color-text-muted); margin-top: 1.5rem; font-style: italic; }
 .assessment__calendly { border-radius: 12px; overflow: hidden; }
 @media (max-width: 768px) { .assessment__layout { grid-template-columns: 1fr; } }
+.form__consent { font-size: 0.75rem; color: var(--color-text-muted); margin-top: 0.5rem; line-height: 1.5; }
+.form__consent a { color: var(--color-text-muted); text-decoration: underline; }
 </style>
 
 
@@ -426,6 +428,7 @@
           </div>
           <div class="form-group">
             <label for="phone">Phone</label>
+          <p class="form__consent">By providing your phone number you consent to receive SMS messages related to your inquiry. Message and data rates may apply. Reply STOP to opt out. Your opt-in data will not be shared with third parties. <a href="/privacy-policy.html">Privacy Policy</a></p>
             <input type="tel" id="phone" name="phone" placeholder="(555) 123-4567" required>
           </div>
           <div class="form-group">
@@ -479,6 +482,7 @@
       <a href="#assessment">Book an Assessment Call</a>
       <a href="/blog">Blog</a>
       <a href="#contact">Contact</a>
+      <a href="/privacy-policy.html">Privacy Policy</a>
     </div>
     <div class="footer__bottom">
       <p>&copy; 2026 Field Crew AI. All rights reserved.</p>
