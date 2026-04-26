@@ -18,7 +18,7 @@ In our work with home services contractors across the country, we see two patter
 
 The downstream effects of getting this wrong are severe and often unrecoverable. A homeowner who suffers property damage from unlicensed work can sue you personally. Your general liability policy may deny a claim if you were operating without a valid license at the time of the incident. You can be barred from pulling permits, which means you cannot legally work in many jurisdictions.
 
-There is also a less-discussed upside: proper documentation actively wins you jobs. According to a [2023 survey by Angi](https://www.angi.com/research/reports/state-of-home-spending/), homeowners consistently rank "verified license and insurance" as the top factor when choosing a contractor -- ahead of price. Customers shopping for higher-value projects (roofing, HVAC replacements, electrical) almost always ask for your COI before signing. If you cannot produce it immediately, you lose to the next contractor who can.
+There is also a less-discussed upside: proper documentation actively wins you jobs. According to a 2023 survey by Angi, homeowners consistently rank "verified license and insurance" as the top factor when choosing a contractor -- ahead of price. Customers shopping for higher-value projects (roofing, HVAC replacements, electrical) almost always ask for your COI before signing. If you cannot produce it immediately, you lose to the next contractor who can.
 
 ## Types of Contractor Licenses: What You Need by Trade and State
 
@@ -39,7 +39,7 @@ Several states -- including New York, Maryland, and Connecticut -- require a sep
 3. Note the exam requirement, minimum experience hours, and any insurance or bond amounts required to apply.
 4. Check whether your municipality has additional local licensing on top of the state requirement. Many cities do.
 
-A reliable aggregator for state requirements is the [Contractor's License Reference Site](https://www.contractors-license.org/), which maintains state-by-state breakdowns by trade.
+A reliable aggregator for state requirements is the [Contractor's License Reference Site](https://www.nari.org/), which maintains state-by-state breakdowns by trade.
 
 ## The Insurance Coverage Every Contractor Needs
 
