@@ -86,7 +86,7 @@ For customers who gave you a written review, you can follow up with a short emai
 The key is making it easy. If the customer has to remember a URL, fill out a form, or do any work to refer you, most of them will not bother. A phone number, a simple text message, or just having them mention your name is enough. You follow up to confirm the connection.
 
 <div class="post-cta">
-<strong>Not sure how to work a referral ask into your close-out process?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Not sure how to work a referral ask into your close-out process?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Common Mistakes Contractors Make With Referral Programs
@@ -122,7 +122,7 @@ Yes, even if it is just a short paragraph in a follow-up email or a postcard. Ha
 Absolutely, and we recommend sequencing them. After close-out, ask for a Google review first. Once they have reviewed, follow up separately with the referral ask. Bundling both into one message dilutes both. The review ask works best when it is the only thing you are asking for. The referral ask works best when the customer already feels appreciated for having left the review.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
