@@ -44,7 +44,7 @@ Once you have hired a crew, the management phase begins. We recommend using [con
 Communication is the most common point of failure. We suggest implementing a "Daily Check-in" requirement. Have the lead sub send photos of the progress at the end of every day. This allows you to catch errors before they are covered up by drywall or roofing shingles. It also gives you a paper trail if a customer disputes the work later.
 
 <div class="post-cta">
-<strong>Is your current crew management eating up all your time?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Is your current crew management eating up all your time?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Common Mistakes When Hiring and Managing Subcontractors
@@ -67,7 +67,7 @@ In most cases, it is better for the general contractor to provide the major mate
 Subcontractors generally receive a higher "raw" rate because they are responsible for their own taxes, insurance, and equipment. A common rule of thumb is to aim for a 40% to 50% gross margin on the labor portion of the project after paying your sub. If your margins are thinner than that, you may need to re-evaluate your estimating process.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
