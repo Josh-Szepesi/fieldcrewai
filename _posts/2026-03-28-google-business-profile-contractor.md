@@ -45,7 +45,7 @@ Most contractor profiles are missing at least a few key sections. Go through you
 
 ## Step 2: Upload Real Photos Consistently
 
-Google Business Profile contractor listings with photos get significantly more clicks than those without. According to [Google's own data](https://support.google.com/business/answer/6184639), businesses with photos receive 42% more requests for directions and 35% more website clicks.
+Google Business Profile contractor listings with photos get significantly more clicks than those without. According to [Google's own data](https://support.google.com/business/answer/3039617), businesses with photos receive 42% more requests for directions and 35% more website clicks.
 
 Upload photos of your actual work -- before and after shots from jobs, photos of your crew, your trucks, and your equipment. Real photos outperform stock images. They build trust in a way that generic images can't.
 
