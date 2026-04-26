@@ -95,7 +95,7 @@ Avoid generic responses like "Thank you for your review!" on every review. It re
 
 > "Hi Sarah, I am sorry to hear the experience did not meet expectations. This is not the standard we hold ourselves to. Please reach out to us directly at [phone] so we can make this right."
 
-Never argue with a negative review publicly. Even if the customer is wrong, a defensive response is visible to every future prospect who reads it. Take the high road. According to [Google's own guidance on review responses](https://support.google.com/business/answer/3474050), a professional response to a negative review often increases trust with prospective customers more than having no negative reviews at all.
+Never argue with a negative review publicly. Even if the customer is wrong, a defensive response is visible to every future prospect who reads it. Take the high road. According to [Google's own guidance on review responses](https://support.google.com/business/answer/7104372), a professional response to a negative review often increases trust with prospective customers more than having no negative reviews at all.
 
 ## FAQ
 
