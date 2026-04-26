@@ -51,11 +51,11 @@ Upload photos of your actual work -- before and after shots from jobs, photos of
 
 Aim to add new photos at least once a month. Google rewards active listings, and fresh photos signal to both Google and potential customers that your business is active and doing real work.
 
-[Want help setting up an automated system to keep your GBP updated and generating leads? Let's talk.](https://fieldcrewai.com/#contact)
+[Want help setting up an automated system to keep your GBP updated and generating leads? Let's talk.](https://fieldcrewai.com/#assessment)
 
 
 <div class="post-cta">
-<strong>Want help getting your Google Business Profile fully optimized?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Want help getting your Google Business Profile fully optimized?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Step 3: Get Reviews -- and Respond to All of Them
@@ -85,7 +85,7 @@ A Google Business Profile contractor listing isn't set-and-forget. Here's a quic
 Combined with a strong SEO keyword strategy -- as outlined in [the 5 keywords every roofing contractor should own](/blog/2026-03-28-roofing-contractor-local-seo-keywords/) -- a well-maintained Google Business Profile contractor listing is the foundation of local search dominance. These two pieces together, done consistently, will put you ahead of the majority of contractors in most local markets.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
