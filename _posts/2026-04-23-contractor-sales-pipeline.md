@@ -39,7 +39,7 @@ Once the lead is in the system, the clock starts. You should have an automated "
 Automation also ensures that no lead is ignored. We have worked with plumbing companies that were "losing" 30 percent of their leads simply because the office manager was overwhelmed and forgot to call people back. When the pipeline is automated, the system can flag a lead that has been sitting in the "New Lead" column for more than four hours without action. This level of accountability is what separates the $500k-a-year "Chuck in a truck" from the $5M-a-year professional operation. Automation does not replace the human touch; it ensures that the human touch happens at the right time.
 
 ---
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) - we'll audit your business and show you exactly where the gaps are.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment) - we'll audit your business and show you exactly where the gaps are.
 ---
 
 ## The Fortune Is in the Follow-Up Cadence
@@ -90,7 +90,7 @@ Building a contractor sales pipeline is the single most effective thing you can 
 A pipeline is not a "set it and forget it" tool. It is a living part of your daily operations. By defining your stages, automating your responses, and being disciplined about your follow-up, you will naturally close more jobs without spending an extra dime on advertising. The contractors who win in 2026 are not necessarily the best at their craft; they are the ones who are the most professional and responsive in their sales process.
 
 ---
-**Ready to stop losing leads?** [Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) - we'll audit your business and show you exactly where the gaps are.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment) - we'll audit your business and show you exactly where the gaps are.
 ---
 
 <div class="author-bio">
