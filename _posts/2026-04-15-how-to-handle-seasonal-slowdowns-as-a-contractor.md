@@ -43,7 +43,7 @@ When business is booming, follow-up usually falls through the cracks. When thing
 According to research from [BrightLocal](https://www.brightlocal.com/research/local-consumer-review-survey/), 87% of consumers used Google to find local businesses in 2022. If you aren't actively managing your online presence during the slow season, you are missing the few people who are actually looking for services. This is the perfect time to focus on [contractor google reviews](/2026/04/11/2026-04-11-contractor-google-reviews/) to boost your ranking for when the peak season hits.
 
 <div class="post-cta">
-<strong>Is your database sitting idle while your crews are home?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Is your database sitting idle while your crews are home?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Common Mistakes When Facing a Seasonal Slowdown
@@ -66,7 +66,7 @@ We recommend avoiding layoffs whenever possible, as rehiring and retraining is s
 Go back to your jobs from the last three months and send a personalized follow-up text asking for a review. Most customers are happy to help if you make it easy for them, and this will improve your SEO for the coming months.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
