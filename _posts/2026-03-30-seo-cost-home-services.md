@@ -52,7 +52,7 @@ Before signing anything, ask for a scope of work with specific monthly deliverab
 
 If you want to understand the keyword side of this before spending money, [our breakdown of local SEO keywords for roofing contractors](/blog/roofing-contractor-local-seo-keywords/) shows exactly what to look for when evaluating your market. The same framework applies to HVAC, plumbing, and electrical.
 
-[Book a free strategy call with Field Crew AI](https://fieldcrewai.com/#contact) - we'll review your current site, your market, and tell you which marketing investment makes the most sense for your business right now.
+[Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment) - we'll review your current site, your market, and tell you which marketing investment makes the most sense for your business right now.
 
 ## What You Can Do Yourself (And What You Can't)
 
@@ -64,7 +64,7 @@ What's harder to do yourself is link building and technical SEO. Link building r
 
 
 <div class="post-cta">
-<strong>Want a realistic SEO plan sized for your budget?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Want a realistic SEO plan sized for your budget?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Is SEO Worth It for a Contracting Business?
@@ -94,7 +94,7 @@ Budget $750 to $1,500 per month if you're serious about SEO for a single-locatio
 And fix your website first. SEO drives traffic - but if that traffic lands on a slow, broken site with no clear call to action, you're paying to send people somewhere they won't convert.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
