@@ -49,7 +49,7 @@ We have seen many contractors try to automate their business only to frustrate t
 Another frequent error is not having a human backup. AI can handle about 80 percent of common inquiries, but it will eventually get stuck on a complex technical question. If your AI does not notify you when it is confused, the lead will sit in limbo. We always ensure our clients have "fail-safe" notifications that ping a real person if a conversation goes off the rails or if a high-value emergency lead is identified. Finally, never use automation as an excuse to stop calling leads. The AI is there to warm them up, but your expertise is what closes the contract.
 
 <div class="post-cta">
-<strong>Is your current lead response time killing your profit margins?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Is your current lead response time killing your profit margins?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## Frequently Asked Questions
@@ -67,7 +67,7 @@ Yes, modern AI tools can integrate with scheduling software like Calendly, House
 If you are receiving more than 20 leads per month and find yourself failing to call them back within 15 minutes, you are ready. The cost of the software is almost always lower than the value of the single job you would have lost due to a slow response. It is an investment in your conversion rate rather than just an added expense.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
