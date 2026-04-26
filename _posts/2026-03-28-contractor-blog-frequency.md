@@ -31,7 +31,7 @@ A post titled "Roof Replacement Cost in [City]: What Homeowners Actually Pay in 
 
 Every post should target one specific keyword or question. That question should be something real homeowners in your service area are actually typing into Google. As we covered in [the 5 keywords every roofing contractor should own](/blog/2026-03-28-roofing-contractor-local-seo-keywords/), the best keywords for contractors are local and commercial -- close to an actual buying decision.
 
-[Talk to Field Crew AI about building a content plan for your contracting business.](https://fieldcrewai.com/#contact)
+[Talk to Field Crew AI about building a content plan for your contracting business.](https://fieldcrewai.com/#assessment)
 
 ## The Right Contractor Blog Frequency: A Minimum Viable Schedule
 
@@ -45,7 +45,7 @@ Two posts per month accelerates this. Four per month accelerates it further. But
 
 
 <div class="post-cta">
-<strong>Want a content system that runs without you managing every post?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call</a> and we will show you exactly where the gaps are.
+<strong>Want a content system that runs without you managing every post?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 ## What to Write About
@@ -73,7 +73,7 @@ Once you've got the habit and you're seeing some early traction, consider scalin
 The goal isn't to be a prolific publisher. It's to have a growing library of useful, locally-relevant content that keeps working for you month after month, long after you wrote it.
 
 <div class="post-cta">
-<strong>Ready to stop losing leads?</strong> <a href="https://fieldcrewai.com/#contact">Book a free strategy call with Field Crew AI</a> and we will audit your business and show you exactly where the gaps are.
+<strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
 <div class="author-bio">
