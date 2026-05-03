@@ -93,6 +93,12 @@ A pipeline is not a "set it and forget it" tool. It is a living part of your dai
 **Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment) - we'll audit your business and show you exactly where the gaps are.
 ---
 
+## Related Reading
+
+- [How to Write a Contractor Estimate That Wins More Jobs](https://fieldcrewai.com/blog/contractor-estimate-writing/)
+- [How to Track Job Costs for a Small Contracting Business](https://fieldcrewai.com/blog/contractor-job-cost-tracking/)
+- [What Does a Marketing Agency Actually Do for a Contractor?](https://fieldcrewai.com/blog/2026-04-27-what-does-a-marketing-agency-actually-do-for-a-contractor/)
+
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
