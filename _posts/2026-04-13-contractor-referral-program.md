@@ -125,6 +125,12 @@ Absolutely, and we recommend sequencing them. After close-out, ask for a Google 
 <strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
+## Related Reading
+
+- [How to Get More 5-Star Google Reviews as a Contractor](https://fieldcrewai.com/blog/contractor-google-reviews/)
+- [How to Build a Simple Sales Pipeline for a Home Services Business](https://fieldcrewai.com/blog/contractor-sales-pipeline/)
+- [What Does a Marketing Agency Actually Do for a Contractor?](https://fieldcrewai.com/blog/2026-04-27-what-does-a-marketing-agency-actually-do-for-a-contractor/)
+
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
