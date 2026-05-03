@@ -27,3 +27,6 @@ exclude:
   - Gemfile.lock
   - vendor/
   - wrangler.toml
+
+include:
+  - _redirects
