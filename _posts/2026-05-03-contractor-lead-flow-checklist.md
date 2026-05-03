@@ -12,7 +12,7 @@ The problem usually hides in ordinary places: a call that goes to voicemail whil
 
 The Contractor Lead Flow Audit is a simple way to inspect those weak points before you book an assessment, buy software, or hire another agency. This post walks through some of the ideas behind it. The full checklist is on the site and is meant to be downloaded, printed, and marked up against your actual business.
 
-[Download the Contractor Lead Flow Audit checklist](/#resources){: .button}
+[Download the Contractor Lead Flow Audit checklist](/checklist){: .button}
 
 ## Start where the customer first reaches out
 
@@ -80,6 +80,6 @@ The checklist is intentionally practical. It is not a software comparison guide,
 
 Run through it first. Mark the parts that are already handled. Circle the parts that are loose. If you find three or more gaps, the next move is usually not a big rebuild. It is a short list of fixes in the order that will recover the most time or revenue.
 
-[Get the full Contractor Lead Flow Audit checklist](/#resources){: .button}
+[Get the full Contractor Lead Flow Audit checklist](/checklist){: .button}
 
 If you want help interpreting what you find, the $497 Efficiency Assessment is built for that. You leave with the ranked fix list whether or not you hire Field Crew AI afterward.
