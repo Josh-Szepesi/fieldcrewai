@@ -97,6 +97,12 @@ And fix your website first. SEO drives traffic - but if that traffic lands on a 
 <strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
+
+## Related Reading
+
+- [Why Most Contractor Websites Don't Generate Leads (And What to Do About It)](https://fieldcrewai.com/blog/contractor-website-leads/)
+- [How Often Should a Contractor Publish Blog Content?](https://fieldcrewai.com/blog/contractor-blog-frequency/)
+- [Facebook Ads for Contractors: What Actually Works](https://fieldcrewai.com/blog/facebook-ads-contractors/)
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
