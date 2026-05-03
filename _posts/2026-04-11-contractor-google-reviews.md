@@ -115,6 +115,12 @@ Role-play the ask once during a team meeting and make it part of job close just 
 <strong>Want a review request system your crew will actually use?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> and we will build you a repeatable process that runs without you chasing it.
 </div>
 
+## Related Reading
+
+- [Google Business Profile for Contractors: The Complete Optimization Guide](https://fieldcrewai.com/blog/google-business-profile-contractor/)
+- [Setting Up a Referral Program for Your Contracting Business](https://fieldcrewai.com/blog/contractor-referral-program/)
+- [Why Most Contractor Websites Don't Generate Leads (And What to Do About It)](https://fieldcrewai.com/blog/contractor-website-leads/)
+
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
