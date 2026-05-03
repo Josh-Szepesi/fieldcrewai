@@ -29,7 +29,6 @@ export async function onRequestPost(context) {
       lastname,
       email: email.trim(),
       hs_lead_status: "NEW",
-      lead_source: "fieldcrewai.com checklist lead magnet",
     },
   };
 
