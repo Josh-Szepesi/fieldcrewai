@@ -89,6 +89,12 @@ Tracking your contractor marketing ROI is not a one-time setup; it is a fundamen
 **Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
+## Related Reading
+
+- [What Does a Marketing Agency Actually Do for a Contractor?](https://fieldcrewai.com/blog/2026-04-27-what-does-a-marketing-agency-actually-do-for-a-contractor/)
+- [Facebook Ads for Contractors: What Actually Works](https://fieldcrewai.com/blog/facebook-ads-contractors/)
+- [How to Build a Simple Sales Pipeline for a Home Services Business](https://fieldcrewai.com/blog/contractor-sales-pipeline/)
+
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at Roofr. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
