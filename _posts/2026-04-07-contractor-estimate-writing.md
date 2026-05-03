@@ -115,6 +115,12 @@ A template works fine when you're just starting out. As your volume grows, the t
 <strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
+## Related Reading
+
+- [How to Build a Simple Sales Pipeline for a Home Services Business](https://fieldcrewai.com/blog/contractor-sales-pipeline/)
+- [How to Track Job Costs for a Small Contracting Business](https://fieldcrewai.com/blog/contractor-job-cost-tracking/)
+- [How HVAC Companies Are Using Automation to Book More Jobs](https://fieldcrewai.com/blog/hvac-business-automation/)
+
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
