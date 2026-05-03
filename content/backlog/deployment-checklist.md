@@ -6,6 +6,24 @@ Last updated: 2026-05-03
 
 ---
 
+## 0. 2026-05-03 Production Fix Checklist
+
+- [x] Confirm the contact page route loads as static HTML at `/contact`
+- [x] Confirm the checklist page route loads as static HTML at `/checklist`
+- [x] Identify every production form currently collecting visitor details
+- [x] Add visible SMS consent language to the contact form before submission
+- [x] Wire the checklist lead magnet form directly to HubSpot instead of the missing `/api/lead-magnet` endpoint
+- [x] Preserve the printable checklist page as a direct `/checklist` resource
+- [x] Add canonical image filenames for the three newest blog posts
+- [ ] Rebuild the React bundle after the form changes
+- [ ] Deploy the updated static bundle and blog image assets
+- [ ] Submit one marked test contact to HubSpot
+- [ ] Submit one marked test checklist lead to HubSpot
+- [ ] Verify the three newest blog post images return `200 image/jpeg` in production
+- [ ] Verify production `/contact`, `/checklist`, `/blog`, and the three newest blog posts after deploy
+
+---
+
 ## 1. Domain and DNS
 
 - [ ] Point `fieldcrewai.com` to the production host (Replit or your own infrastructure)
