@@ -12,7 +12,7 @@ Last updated: 2026-05-03
 - [x] Confirm the checklist page route loads as static HTML at `/checklist`
 - [x] Identify every production form currently collecting visitor details
 - [x] Add visible SMS consent language to the contact form before submission
-- [x] Wire the checklist lead magnet form directly to HubSpot instead of the missing `/api/lead-magnet` endpoint
+- [x] Wire the checklist lead magnet form to HubSpot through `/api/lead-magnet`, without requiring a fake phone number
 - [x] Preserve the printable checklist page as a direct `/checklist` resource
 - [x] Add canonical image filenames for the three newest blog posts
 - [ ] Rebuild the React bundle after the form changes
