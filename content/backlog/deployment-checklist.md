@@ -15,12 +15,12 @@ Last updated: 2026-05-03
 - [x] Wire the checklist lead magnet form to HubSpot through `/api/lead-magnet`, without requiring a fake phone number
 - [x] Preserve the printable checklist page as a direct `/checklist` resource
 - [x] Add canonical image filenames for the three newest blog posts
-- [ ] Rebuild the React bundle after the form changes
-- [ ] Deploy the updated static bundle and blog image assets
-- [ ] Submit one marked test contact to HubSpot
-- [ ] Submit one marked test checklist lead to HubSpot
-- [ ] Verify the three newest blog post images return `200 image/jpeg` in production
-- [ ] Verify production `/contact`, `/checklist`, `/blog`, and the three newest blog posts after deploy
+- [x] Rebuild the React bundle after the form changes
+- [x] Deploy the updated static bundle and blog image assets
+- [x] Submit one marked test contact to HubSpot
+- [x] Submit one marked test checklist lead to HubSpot
+- [x] Verify the three newest blog post images return `200 image/jpeg` in production
+- [x] Verify production `/contact`, `/checklist`, `/blog`, and the three newest blog posts after deploy
 
 ---
 
