@@ -144,6 +144,12 @@ No. A surety bond is a financial guarantee that you will complete the job or the
 <strong>Not sure what's worth automating in your operation?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
 </div>
 
+## Related Reading
+
+- [How to Hire and Manage Subcontractors for Business Growth](https://fieldcrewai.com/blog/how-to-hire-and-manage-subcontractors/)
+- [How to Track Job Costs for a Small Contracting Business](https://fieldcrewai.com/blog/contractor-job-cost-tracking/)
+- [How to Handle Seasonal Slowdowns as a Contractor](https://fieldcrewai.com/blog/how-to-handle-seasonal-slowdowns-as-a-contractor/)
+
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
