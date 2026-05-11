@@ -77,5 +77,5 @@ Go back to your jobs from the last three months and send a personalized follow-u
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
-  <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at a leading roofing technology company. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
+  <p>Field Crew AI is run by Josh Szepesi, who brings 8+ years in tech and firsthand experience turning messy small-business workflows into practical systems. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
 </div>

@@ -67,7 +67,7 @@ Another massive failure point is "Speed to Lead." In lead-flow audits, delayed r
 
 Finally, many plumbers fail to track their Return on Investment (ROI). They know they are spending $2,000 a month on "marketing," but they have no idea which channel is actually producing the profit. You must use call tracking numbers for every different ad source. This allows you to see that your Google Ads might be producing $10,000 in revenue while your Yellow Pages ad (yes, some people still use them) is producing zero. Without data, you are just guessing. Stop guessing and start measuring every dollar that leaves your bank account.
 
-## FAQ
+## Frequently Asked Questions
 
 ### How much should I expect to pay per lead in plumbing?
 Lead costs vary wildly based on your location and the specific service. In a mid-sized city, a high-intent lead for a "drain cleaning" or "water heater repair" via Local Service Ads can range from $25 to $80. In highly competitive markets like Los Angeles or New York, those costs can exceed $150 per lead. It is important to distinguish between a "click" and a "lead." You might pay $10 per click on standard Google Ads, but if only one in ten people call you, your cost per lead is $100. Always focus on the cost per booked job rather than just the cost per lead.
@@ -94,5 +94,5 @@ Plumber marketing is not about being the most creative; it is about being the mo
 
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
-  <p>Field Crew AI is run by Josh Szepesi - 8+ years in tech, currently at Roofr. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
+  <p>Field Crew AI is run by Josh Szepesi, who brings 8+ years in tech and firsthand experience turning messy small-business workflows into practical systems. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
 </div>
