@@ -2,7 +2,9 @@
 
 **Price:** $497 one-time
 **Length:** 45 minutes (may extend to 60)
-**Booking:** Calendly — https://calendly.com/josh-fieldcrewai/strategy
+**Payment:** Stripe Payment Link — https://buy.stripe.com/dRmfZa3yL4hzdiTdHB8so01
+**Booking after payment:** Calendly — https://calendly.com/josh-fieldcrewai/strategy
+**Free fit call:** Google Calendar — https://calendar.app.google/TMH9qe1HEjaXDLDF7
 
 ## Who It Is For
 Any contractor at any stage. Explicitly includes early-stage and solo operators. Does not require an existing CRM, sales team, or admin staff.

@@ -43,7 +43,7 @@ Key problems to hit:
 **Section headline:** The assessment comes first.
 
 **Tier 1:** $497 Efficiency Assessment — primary offer, for any size
-**Tier 2:** Operations Audit — for $2M+ operations, contact to scope
+**Larger-team signal:** For $2M+ operations, the $497 assessment is still the entry point. It can lead into a deeper operations plan or scoped implementation work after the diagnostic.
 
 **"You leave with":**
 - A ranked fix list: do now, do later, ignore for now

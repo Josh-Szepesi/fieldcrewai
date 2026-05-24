@@ -35,8 +35,8 @@ If the client does not leave with at least one clear fix worth more than $497, J
 
 ## Secondary Offer: Operations Audit
 
-**Price:** Contact Josh to scope (no published price yet)
-**Format:** Longer session (90+ min), deeper analysis, multi-layer process map
+**Status:** Not a standalone front-door offer for now
+**Format:** Deeper plan or implementation scope after the $497 assessment
 **Audience:** $2M+ operations with existing CRMs, crews, sales reps, ad spend
 **Primary ICP:** Kathy
 
@@ -48,7 +48,7 @@ If the client does not leave with at least one clear fix worth more than $497, J
 - Deliver a prioritized fix plan with ROI framing
 
 **Positioning note:**
-The $497 assessment can serve as an entry point for Kathy if she wants to validate scope before committing to a larger engagement. The Operations Audit is not a published product yet — scope it per engagement.
+Larger customers still start with the $497 assessment. The difference is what happens after: if the business has crews, office staff, ad spend, CRM data, and more moving parts, the assessment can become the starting point for a deeper operations plan or scoped implementation work.
 
 ---
 
@@ -59,7 +59,7 @@ The $497 assessment can serve as an entry point for Kathy if she wants to valida
 **Audience:** Contractors who want to talk before committing
 **Primary use case:** Jim-type buyers who are skeptical and want to vet Josh first
 
-**Calendly:** Currently uses the same link as the assessment. A separate 15-min link will be added.
+**Google Calendar:** https://calendar.app.google/TMH9qe1HEjaXDLDF7
 
 ---
 
@@ -67,7 +67,7 @@ The $497 assessment can serve as an entry point for Kathy if she wants to valida
 
 | | Ethan | Jim | Kathy |
 |---|---|---|---|
-| Right offer | $497 Assessment | $497 Assessment | Operations Audit |
-| Entry point | Book directly | 15-min call first | Contact Josh |
+| Right offer | $497 Assessment | $497 Assessment | $497 Assessment into deeper plan |
+| Entry point | Book directly | 15-min call first | Assessment first |
 | Price sensitivity | High | Medium | Low |
 | Key concern | DIY path + no software pitch | Proof + guarantee | Depth + scale |

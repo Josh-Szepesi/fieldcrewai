@@ -89,28 +89,22 @@ The following endpoints exist in the frontend code but are not yet implemented i
 ## 4. Calendly Configuration
 
 - [ ] Confirm `https://calendly.com/josh-fieldcrewai/strategy` is the correct booking URL
-- [ ] Test the embedded Calendly widget on the homepage (scroll to `#calendly-embed`)
-- [ ] Create a separate 15-minute discovery call event type in Calendly
-- [ ] Update `DISCOVERY_URL` constant in `artifacts/field-crew-ai/src/pages/Home.tsx` (currently uses the same URL as the assessment)
+- [ ] Confirm Stripe Payment Link redirects to the Calendly assessment booking page after successful payment
+- [ ] Confirm the free 15-minute Google Calendar booking link works: `https://calendar.app.google/TMH9qe1HEjaXDLDF7`
 - [ ] Set Calendly notification emails to the correct address
-- [ ] Confirm Calendly payment is configured (or replace with Stripe Checkout — see below)
+- [ ] Confirm Google Calendar notifications route to the correct inbox
 
 ---
 
 ## 5. Payment
 
-**Current state:** Booking goes directly to Calendly without a payment step.
+**Current state:** Paid assessment CTAs go to Stripe first. After successful payment, Stripe should redirect to the Calendly assessment booking page.
 
-**Options:**
+**Production links:**
 
-**Option A — Calendly + manual invoice (current):** Calendly collects the booking, Josh invoices separately. No code changes needed.
-
-**Option B — Calendly with Stripe integration:** Enable Stripe in Calendly settings. No code changes needed.
-
-**Option C — Stripe Checkout before Calendly:** Replace the `#assessment` CTA buttons with a Stripe Checkout link. After successful payment, redirect to Calendly. Requires:
-- Stripe account and product set up
-- Replace all `href="#assessment"` CTA buttons that trigger payment with the Stripe Checkout URL
-- Search for comments in code: "Replace this href with Stripe Checkout"
+- Paid assessment Stripe link: `https://buy.stripe.com/dRmfZa3yL4hzdiTdHB8so01`
+- Assessment booking after payment: `https://calendly.com/josh-fieldcrewai/strategy`
+- Free 15-minute fit call: `https://calendar.app.google/TMH9qe1HEjaXDLDF7`
 
 ---
 
@@ -130,10 +124,10 @@ The following endpoints exist in the frontend code but are not yet implemented i
 - [ ] Add Google Analytics 4 or Plausible tracking to `index.html`
 - [ ] Track these key events:
   - `button-hero-primary` click (Book the $497 Assessment)
-  - `button-hero-secondary` click (See What You Get)
+  - `button-hero-secondary` click (Free 15-minute fit call)
+  - `button-checkout-cta` click (Pay $497 and book)
   - Lead magnet form submission
   - Contact form submission
-  - Calendly embed loaded
 - [ ] All interactive elements have `data-testid` attributes that can be used as event selectors
 
 **To add GA4:** Insert the GA4 script into `artifacts/field-crew-ai/index.html` `<head>` before `</head>`.
@@ -181,8 +175,9 @@ The following endpoints exist in the frontend code but are not yet implemented i
 Run through these manually before announcing:
 
 - [ ] Home page loads at `https://fieldcrewai.com/`
-- [ ] "Book the $497 Assessment" button scrolls to Calendly embed
-- [ ] Calendly embed loads and a test booking can be started (do not complete)
+- [ ] "Book the $497 Assessment" buttons open the Stripe payment link
+- [ ] Stripe Payment Link redirects to Calendly after successful payment
+- [ ] Free 15-minute fit call button opens the Google Calendar booking link
 - [ ] Lead magnet form submits and shows success state
 - [ ] Checklist page loads at `/checklist` and prints correctly
 - [ ] Contact form submits and shows success state

@@ -14,7 +14,9 @@ Contact: Josh@fieldcrewai.com | 1.587.330.3602
 
 **$497 Efficiency Assessment** — a 45-minute working session with Josh that maps the contractor's lead flow, identifies the highest-impact gaps, and delivers a ranked fix list. Includes what to do yourself, what costs nothing, and what is worth implementing with help.
 
-Booking: https://fieldcrewai.com/#assessment
+Payment: https://buy.stripe.com/dRmfZa3yL4hzdiTdHB8so01
+Booking after payment: https://calendly.com/josh-fieldcrewai/strategy
+Free fit call: https://calendar.app.google/TMH9qe1HEjaXDLDF7
 
 ## Free Resource
 
@@ -24,16 +26,16 @@ Available at: https://fieldcrewai.com/checklist
 
 ## Pages
 
-- [Home](https://fieldcrewai.com/): Full-service homepage with assessment offer, stage selector, FAQ, and Calendly embed.
+- [Home](https://fieldcrewai.com/): Full-service homepage with assessment offer, stage selector, FAQ, Stripe checkout link, and free 15-minute fit call.
 - [Checklist](https://fieldcrewai.com/checklist): Free printable lead flow audit checklist.
 - [Blog / Resources](https://fieldcrewai.com/blog): Contractor-specific operations and automation content.
-- [Contact](https://fieldcrewai.com/contact): Contact form for Operations Audit inquiries and general questions.
+- [Contact](https://fieldcrewai.com/contact): Contact form for larger-team inquiries, implementation discussions, and general questions.
 - [Privacy](https://fieldcrewai.com/privacy): Privacy policy and SMS consent terms.
 
 ## Services Described
 
 - **Efficiency Assessment** ($497 one-time): Lead flow mapping, gap identification, ranked action plan.
-- **Operations Audit** (contact to scope): For $2M+ multi-crew contractors. Full CRM audit, ad attribution analysis, pipeline review, rep follow-up analysis.
+- **Deeper operations plan** (after assessment): For $2M+ multi-crew contractors. CRM audit, ad attribution analysis, pipeline review, rep follow-up analysis, and implementation scoping after the initial diagnostic.
 - **Implementation support** (optional, after assessment): Missed-call text-back, estimate follow-up automation, review request flows, AI phone coverage, website work, CRM configuration. Priced separately per project or service.
 
 ## Target Audience
