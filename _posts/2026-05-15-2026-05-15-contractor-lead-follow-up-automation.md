@@ -112,9 +112,9 @@ The transition from manual follow-up to contractor lead follow-up automation req
 
 ## Related Reading
 
-- [AI Lead Response for Contractors: Book More Jobs in Minutes](/blog/2026/04/17/2026-04-17-using-ai-to-respond-to-leads-faster.html)
-- [Why Most Contractor Websites Don't Generate Leads](/blog/2026/03/28/2026-03-28-contractor-website-leads.html)
-- [How to Track Your Marketing ROI as a Contractor](/blog/2026/04/29/2026-04-29-how-to-track-your-marketing-roi-as-a-contractor.html)
+- [AI Lead Response for Contractors: Book More Jobs in Minutes](/blog/using-ai-to-respond-to-leads-faster/)
+- [Why Most Contractor Websites Don't Generate Leads](/blog/contractor-website-leads/)
+- [How to Track Your Marketing ROI as a Contractor](/blog/2026-04-29-how-to-track-your-marketing-roi-as-a-contractor/)
 
 ---
 **Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
