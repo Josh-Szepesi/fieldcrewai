@@ -69,7 +69,7 @@ Implementing this technology does not require a degree in computer science. Most
 5.  **Test the System:** Use a different phone to call your business line and let it ring through. Verify that the text arrives within 60 seconds and that all links work correctly.
 6.  **Monitor and Refine:** Check your response rates. If people are not replying to your text, try changing the question or the tone of the message.
 
-For those in specific trades, such as HVAC, integrating this into your broader marketing strategy is essential. Learn more about [HVAC marketing that actually brings in service calls](/blog/hvac-marketing-that-actually-brings-in-service-calls/) to see how response time fits into the bigger picture.
+For those in specific trades, such as HVAC, integrating this into your broader marketing strategy is essential. Learn more about [HVAC marketing that actually brings in service calls](/blog/2026-05-04-hvac-marketing-that-actually-brings-in-service-calls/) to see how response time fits into the bigger picture.
 
 ## Troubleshooting and Avoiding Common Automation Pitfalls
 
@@ -99,13 +99,13 @@ A missed call is more than just a missed conversation; it is a lost opportunity 
 **Related Reading:**
 - [The Contractor Lead Flow Checklist](/blog/contractor-lead-flow-checklist/)
 - [Using AI to Respond to Leads Faster](/blog/using-ai-to-respond-to-leads-faster/)
-- [HVAC Marketing That Actually Brings in Service Calls](/blog/hvac-marketing-that-actually-brings-in-service-calls/)
+- [HVAC Marketing That Actually Brings in Service Calls](/blog/2026-05-04-hvac-marketing-that-actually-brings-in-service-calls/)
 
 ## Related Reading
 
-- [AI Lead Response for Contractors: Book More Jobs in Minutes](/blog/2026/04/17/2026-04-17-using-ai-to-respond-to-leads-faster.html)
-- [Why Most Contractor Websites Don't Generate Leads](/blog/2026/03/28/2026-03-28-contractor-website-leads.html)
-- [How to Track Your Marketing ROI as a Contractor](/blog/2026/04/29/2026-04-29-how-to-track-your-marketing-roi-as-a-contractor.html)
+- [AI Lead Response for Contractors: Book More Jobs in Minutes](/blog/using-ai-to-respond-to-leads-faster/)
+- [Why Most Contractor Websites Don't Generate Leads](/blog/contractor-website-leads/)
+- [How to Track Your Marketing ROI as a Contractor](/blog/2026-04-29-how-to-track-your-marketing-roi-as-a-contractor/)
 
 ## Frequently Asked Questions
 
