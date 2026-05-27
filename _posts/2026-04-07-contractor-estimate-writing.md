@@ -60,7 +60,7 @@ Use consistent fonts and spacing. You don't need a design degree. A clean Arial 
 
 Send it with a short covering message. Don't just attach a PDF and hit send. Write two sentences: thank them for the opportunity, confirm what's included, and tell them when you'll follow up. "Hi Mark, attached is the estimate we discussed for the kitchen remodel. This covers everything we walked through on Tuesday. I'll reach out Thursday to answer any questions." That's it.
 
-Follow up. Send a follow-up message three to five days after sending the estimate if you haven't heard back. Most contractors don't. The ones who do close more jobs. If you're looking to build a system around this, our post on [how to generate leads with a contractor website](/2026-03-28-contractor-website-leads) covers the full funnel from first visit to booked job.
+Follow up. Send a follow-up message three to five days after sending the estimate if you haven't heard back. Most contractors don't. The ones who do close more jobs. If you're looking to build a system around this, our post on [how to generate leads with a contractor website](/2026/03/28/contractor-website-leads/) covers the full funnel from first visit to booked job.
 
 <div class="post-cta">
 <strong>Not sure why your estimates aren't converting?</strong> <a href="https://fieldcrewai.com/#assessment">Book a free 30-minute Efficiency Discovery Call</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
@@ -87,7 +87,7 @@ The real ROI of software isn't the template; it's the tracking. Knowing which es
 
 ## Common Estimating Mistakes and How to Fix Them
 
-**Underpricing to win the job.** This is the most expensive mistake in contracting. If you're consistently winning jobs but struggling to make money, your estimates are too low. The fix: track your actual job costs against your estimates for 90 days. We covered how to set up that tracking in our guide on [how to track job costs for a small contracting business](/2026-04-03-contractor-job-cost-tracking). You'll find the line items where you're consistently over budget.
+**Underpricing to win the job.** This is the most expensive mistake in contracting. If you're consistently winning jobs but struggling to make money, your estimates are too low. The fix: track your actual job costs against your estimates for 90 days. We covered how to set up that tracking in our guide on [how to track job costs for a small contracting business](/2026/04/03/contractor-job-cost-tracking/). You'll find the line items where you're consistently over budget.
 
 **Not accounting for overhead.** Labor and materials are not your only costs. Fuel, insurance, tools, your own time on sales and admin all need to be built into your pricing. A common rule of thumb is to calculate your fully loaded hourly rate including overhead before pricing any job.
 
