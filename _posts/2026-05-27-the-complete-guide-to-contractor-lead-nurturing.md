@@ -27,7 +27,7 @@ To build a contractor lead nurturing system that actually books jobs, you need m
 
 1. **Capture every lead in a centralized database.**
 
-If you are still running your business from a legal pad or a basic spreadsheet, you will find it nearly impossible to scale your nurturing efforts. The first pillar is a centralized database. You must understand [What Is a CRM and Does My Contracting Business Need One?](/blog/crm-for-contractors/) to appreciate how a dedicated system stores the history of every interaction, allowing you to send the right message at the right time.
+If you are still running your business from a legal pad or a basic spreadsheet, you will find it nearly impossible to scale your nurturing efforts. The first pillar is a centralized database. You must understand [What Is a CRM and Does My Contracting Business Need One?](/blog/2026-05-13-crm-for-contractors/) to appreciate how a dedicated system stores the history of every interaction, allowing you to send the right message at the right time.
 
 A good CRM automatically logs every form submission, phone call, and email exchange. It tags leads by source, service type, and urgency. When a lead comes in at 10 PM through your website, your CRM should capture it immediately and trigger your first follow-up before you even check your phone in the morning. Without this foundation, you are essentially trying to build a house without a concrete slab. Every other step in your nurturing system depends on knowing who your leads are, where they came from, and what they need.
 
@@ -35,7 +35,7 @@ A good CRM automatically logs every form submission, phone call, and email excha
 
 Speed to lead is one of the most important factors in conversion. A study by InsideSales.com found that responding to a lead within five minutes makes you 100 times more likely to connect than waiting just 30 minutes. For contractors, this is especially critical. A homeowner with a leaking roof or a broken air conditioner is in distress mode. If you respond fast, you become the hero. If you wait two hours, they have already moved on to the next company.
 
-This is where [missed call text-back systems](/blog/missed-call-text-back-contractor/) become essential. If you cannot answer the phone, an automated text message buys you time and keeps the conversation warm until you can call back personally. The goal is never to let a lead sit unattended for more than a few minutes during business hours.
+This is where [missed call text-back systems](/blog/2026-05-11-missed-call-text-back-contractor/) become essential. If you cannot answer the phone, an automated text message buys you time and keeps the conversation warm until you can call back personally. The goal is never to let a lead sit unattended for more than a few minutes during business hours.
 
 3. **Segment your leads by intent and timeline.**
 
@@ -60,7 +60,7 @@ This approach keeps you visible without becoming a pest. Each touchpoint adds va
 
 5. **Automate the repetitive parts.**
 
-Automation does not mean removing the human element. It means removing the boring, repetitive tasks that cause leads to slip through the cracks. If you want to see how automation fits into the broader picture, read our post on [How to Automate Follow-Ups With Leads Who Don't Call Back](/blog/contractor-lead-follow-up-automation/).
+Automation does not mean removing the human element. It means removing the boring, repetitive tasks that cause leads to slip through the cracks. If you want to see how automation fits into the broader picture, read our post on [How to Automate Follow-Ups With Leads Who Don't Call Back](/blog/2026-05-15-contractor-lead-follow-up-automation/).
 
 Automated workflows can send birthday messages, anniversary reminders, and seasonal maintenance tips. They can also move leads from one pipeline stage to another based on behavior. When a lead clicks your estimate link or books a call, your CRM should automatically update their status and notify your team. The best part is that once these workflows are built, they run in the background while you focus on running your crews and managing jobs.
 
@@ -116,7 +116,7 @@ A standard sequence should run for at least 90 days with 8 to 12 touchpoints. Ho
 
 **What is the best CRM for contractor lead nurturing?**
 
-The best CRM is the one your team will actually use. Popular options for contractors include JobNimbus, AccuLynx, and HubSpot. Look for features like automated workflows, text messaging integration, and pipeline visualization. For a deeper breakdown, see our guide on [CRM systems for contractors](/blog/crm-for-contractors/).
+The best CRM is the one your team will actually use. Popular options for contractors include JobNimbus, AccuLynx, and HubSpot. Look for features like automated workflows, text messaging integration, and pipeline visualization. For a deeper breakdown, see our guide on [CRM systems for contractors](/blog/2026-05-13-crm-for-contractors/).
 
 **Can I nurture leads without spending money on software?**
 
@@ -132,9 +132,9 @@ Yes. Whether you are a roofer, HVAC technician, plumber, or general remodeler, h
 
 ## Related Reading
 
-- [What Is a CRM and Does My Contracting Business Need One?](/blog/crm-for-contractors/)
-- [How to Automate Follow-Ups With Leads Who Don't Call Back](/blog/contractor-lead-follow-up-automation/)
-- [How Missed Call Text-Back Works (And Why Contractors Can't Afford to Skip It)](/blog/missed-call-text-back-contractor/)
+- [What Is a CRM and Does My Contracting Business Need One?](/blog/2026-05-13-crm-for-contractors/)
+- [How to Automate Follow-Ups With Leads Who Don't Call Back](/blog/2026-05-15-contractor-lead-follow-up-automation/)
+- [How Missed Call Text-Back Works (And Why Contractors Can't Afford to Skip It)](/blog/2026-05-11-missed-call-text-back-contractor/)
 
 ---
 
