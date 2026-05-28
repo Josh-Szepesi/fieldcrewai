@@ -35,7 +35,7 @@ Your phone number should be the most prominent element on the page. It needs to 
 
 Include specific landing pages for your core services. Instead of just having a "Services" page, create individual pages for "Emergency Drain Cleaning," "Water Heater Repair," and "Sump Pump Installation." This helps with SEO because it allows you to rank for those specific long-tail keywords. Each page should have a clear Call to Action (CTA). Instead of a generic "Contact Us," use "Get an Emergency Quote" or "Schedule Your Drain Inspection." Use proof you can verify: license number, years in business, photos of real work, service area details, and review links. Mentioning specific neighborhoods or landmarks in your text also helps Google understand your service area better.
 
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 
 ## Reputation Management and Review Velocity
 
@@ -83,7 +83,7 @@ Social media like Facebook and Instagram is generally not the best place for "em
 Plumber marketing is not about being the most creative; it is about being the most visible and the most responsive. By building a strong foundation on Google Business Profile, leveraging the immediate power of Local Service Ads, and ensuring your website is built for conversion, you can create a lead generation engine that runs on autopilot. Stop looking at marketing as an expense and start looking at it as an investment in your company's infrastructure. The contractors who win are the ones who realize that the work doesn't start at the job site - it starts the moment a customer picks up their phone to search for help. Take control of your digital presence today so you aren't left fighting for scraps tomorrow.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 ## Related Reading
