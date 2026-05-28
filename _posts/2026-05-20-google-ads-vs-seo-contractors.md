@@ -41,7 +41,7 @@ This isn't just about spending money in two places; it is about using data from 
 
 Furthermore, running ads can actually improve your organic click-through rate. There is a psychological phenomenon where seeing a brand name multiple times on a single page increases trust. If a homeowner sees your "Google Guaranteed" badge at the top, your paid ad in the middle, and your organic listing in the map pack, the likelihood of them clicking on your business increases exponentially. They perceive you as the dominant player in the market.
 
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 
 ## Conversion Rate Optimization: The Missing Link for Google Ads vs SEO Contractors
 
@@ -125,7 +125,7 @@ Not always. Many contractors already have enough tooling inside their phone syst
 The recommendations come from practical reviews of small-business workflows, contractor websites, CRM setup, missed-call handling, estimate follow-up, source tracking, and review request processes. The goal is to point out operational gaps you can verify in your own business instead of relying on vague marketing claims.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 <div class="author-bio">
