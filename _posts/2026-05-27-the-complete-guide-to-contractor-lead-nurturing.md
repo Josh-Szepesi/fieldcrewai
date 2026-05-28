@@ -138,7 +138,7 @@ Yes. Whether you are a roofer, HVAC technician, plumber, or general remodeler, h
 
 ---
 
-**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written read on your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
+**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written summary of your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
 
 ---
 
