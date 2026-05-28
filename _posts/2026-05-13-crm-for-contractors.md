@@ -55,7 +55,7 @@ Not always. Many contractors already have enough tooling inside their phone syst
 The recommendations come from practical reviews of small-business workflows, contractor websites, CRM setup, missed-call handling, estimate follow-up, source tracking, and review request processes. The goal is to point out operational gaps you can verify in your own business instead of relying on vague marketing claims.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 Effective pipeline management also involves understanding why you lose jobs. A CRM allows you to categorize "Lost" leads with reasons like "Price too high," "No response," or "Chose a competitor." After six months of data, you might realize that you are losing 40 percent of your jobs because your pricing is significantly higher than the local average without a clear explanation of your value. This insight allows you to adjust your sales presentation or your pricing strategy based on hard data rather than gut feelings. For a deeper look at setting this up, read our guide on [How to Build a Simple Sales Pipeline for a Home Services Business](/blog/contractor-sales-pipeline/).
@@ -112,7 +112,7 @@ A CRM is the backbone of a modern, scalable contracting business. It transforms 
 - [Why Most Contractor Websites Don't Generate Leads (And What to Do About It)](/blog/contractor-website-leads/)
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 <div class="author-bio">
