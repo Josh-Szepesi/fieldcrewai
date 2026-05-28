@@ -22,7 +22,7 @@ In our work with contractors, we have found that the biggest friction point is o
 
 This foundational work also includes setting up proper tracking. You cannot manage what you do not measure. An agency will install tracking pixels, set up call tracking numbers, and integrate your CRM with their marketing dashboard. This ensures that every dollar spent is accounted for. They are not just reporting on "clicks" or "impressions." They are reporting on how many qualified leads were generated and what the cost per lead actually was. This level of transparency is what separates a professional partner from a hobbyist.
 
-**Not sure if your current strategy is actually working?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). We can look under the hood and tell you exactly where your leads are leaking out of your funnel.
+**Not sure if your current strategy is actually working?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). We can look under the hood and tell you exactly where your leads are leaking out of your funnel.
 
 ## Technical SEO and Local Search Visibility
 
@@ -99,7 +99,7 @@ A home services marketing agency is not a "set it and forget it" solution. It is
 If you are ready to stop guessing and start growing, the first step is identifying the gaps in your current operation. Whether you are struggling with low lead volume, poor conversion rates, or a lack of tracking, a professional assessment can provide the roadmap you need. Stop letting your competitors win the digital battleground and start building an asset that drives revenue for years to come.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 ## Related Reading
