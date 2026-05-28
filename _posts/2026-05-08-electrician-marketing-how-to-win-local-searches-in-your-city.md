@@ -42,7 +42,7 @@ Speed is the most important technical factor for your website. Most of your lead
 Social proof must be front and center. Do not hide your reviews on a page that nobody visits. Put your Google rating and a few recent reviews directly on your homepage and on every service page if you have them. If you are still building review volume, show proof you can stand behind: license number, insurance status, service area, real project photos, technician photos, and review links. People are naturally nervous about letting strangers into their homes to work on their electrical systems. Your website's job is to eliminate that nervousness through professional design and clear proof of your expertise. If your site looks like it was built in 2010, customers will assume your electrical knowledge is just as outdated. For a deeper look at why sites fail, read [Why Most Contractor Websites Don't Generate Leads](/blog/contractor-website-leads/).
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 ## Speed to Lead: Why Automation is Non-Negotiable
@@ -93,7 +93,7 @@ Facebook is a "disruption" platform, not a "search" platform. This means it is g
 Winning at electrician marketing requires a relentless focus on local visibility and response time. By optimizing your Google Business Profile, leveraging the power of Local Service Ads, and ensuring your website is built for conversion, you can create a lead generation machine that runs on autopilot. Stop worrying about vanity metrics and start focusing on the systems that actually put trucks in driveways. The contractors who win in 2026 will be the ones who combine old-school technical expertise with modern, automated marketing systems. Take the first step today by auditing your current local presence and fixing the holes in your follow-up process.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 ## Related Reading
