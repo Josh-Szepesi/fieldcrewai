@@ -46,7 +46,7 @@ The "trigger" is the most critical technical component. This is the event that s
 
 Another technical necessity is the ability to handle "stop" triggers. There is nothing more embarrassing or unprofessional than sending an automated "Are you still there?" text to a client you just spent an hour with on a job site. Your automation must be smart enough to stop the sequence as soon as a lead responds, books an appointment, or is moved to a different stage in your sales pipeline. This requires a "workflow" mindset where every action by the customer or your staff moves the lead into a new category.
 
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 
 Finally, consider the deliverability of your messages. For SMS, you must comply with A2P 10DLC regulations, which require businesses to register their brand and their messaging use cases to avoid being blocked by carriers. For email, you need to ensure your domain is properly authenticated with SPF, DKIM, and DMARC records. If your automated messages end up in the spam folder, the entire system fails. Using a professional platform helps manage these technical hurdles, but you must still monitor your "sent" and "delivered" stats to ensure your messages are actually reaching your prospects.
 
@@ -117,7 +117,7 @@ The transition from manual follow-up to contractor lead follow-up automation req
 - [How to Track Your Marketing ROI as a Contractor](/blog/2026-04-29-how-to-track-your-marketing-roi-as-a-contractor/)
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 <div class="author-bio">
