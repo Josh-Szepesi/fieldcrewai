@@ -51,7 +51,7 @@ Automation also allows you to filter your feedback. Some systems allow you to as
 
 Beyond just collecting the reviews, you can automate the display of these testimonials. There are many website plugins that can automatically pull in your latest Google reviews and display them in a clean, professional slider on your site. This keeps your social proof fresh without you having to lift a finger. When your website always shows a review from \"2 days ago,\" it signals to new leads that you are active, busy, and consistently making customers happy. This level of operational efficiency is exactly what we focus on at Field Crew AI to help businesses scale.
 
-**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written read on your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
+**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written summary of your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
 
 ## Video Testimonials vs. Written Reviews
 
@@ -103,7 +103,7 @@ You should be very careful here. It is generally acceptable to fix minor typos o
 - [2026 05 15 Contractor Lead Follow Up Automation](/blog/2026-05-15-contractor-lead-follow-up-automation/)
 
 ---
-**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written read on your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
+**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written summary of your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
 ---
 
 <div class="author-bio">
