@@ -65,7 +65,7 @@ If you are just starting out or have a limited budget, 100 percent of your focus
 
 As you grow, you must invest in SEO. Paid ads are like a utility bill; the moment you stop paying, the leads stop coming. SEO is like a mortgage; you are building equity in an asset that will eventually produce leads for "free" long after you stop the heavy lifting. A balanced roofing marketing budget typically allocates 40 percent to immediate lead gen (LSA/PPC) and 60 percent to long-term brand and SEO assets.
 
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 
 ## Automating Lead Follow-Up for Maximum ROI
 
@@ -108,7 +108,7 @@ Dominating the roofing market in your area requires a shift in mindset. You are 
 The most successful roofing companies we work with are those that prioritize the customer experience from the first click to the final shingle. Automation is the bridge that connects your marketing efforts to your actual revenue. Start by fixing your GBP today, then layer on the more advanced strategies as your cash flow allows.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 ## Related Reading
