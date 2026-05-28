@@ -40,7 +40,7 @@ If the customer does call, listen more than you talk. Often, a negative review i
 
 - [AI Lead Response for Contractors: Book More Jobs in Minutes](/blog/using-ai-to-respond-to-leads-faster/)
 - [Why Most Contractor Websites Don't Generate Leads](/blog/contractor-website-leads/)
-- [How to Track Your Marketing ROI as a Contractor](/blog/2026-04-29-how-to-track-your-marketing-roi-as-a-contractor/)
+- [How to Track Your Marketing ROI as a Contractor](/blog/how-to-track-your-marketing-roi-as-a-contractor/)
 
 ## Frequently Asked Questions
 
@@ -57,7 +57,7 @@ Not always. Many contractors already have enough tooling inside their phone syst
 The recommendations come from practical reviews of small-business workflows, contractor websites, CRM setup, missed-call handling, estimate follow-up, source tracking, and review request processes. The goal is to point out operational gaps you can verify in your own business instead of relying on vague marketing claims.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written read on your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
 ---
 
 ## How to Investigate and Verify Negative Claims
@@ -123,7 +123,7 @@ Handling contractor negative reviews is an essential skill for any modern home s
 - [Using AI to Respond to Leads Faster](/blog/using-ai-to-respond-to-leads-faster/)
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written read on your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
 ---
 
 <div class="author-bio">
