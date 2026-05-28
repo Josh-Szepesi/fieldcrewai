@@ -12,7 +12,7 @@ Every time your phone rings and goes to voicemail, you are handing money to your
 ![Contractor working on a home services job](/assets/images/2026-05-11-missed-call-text-back-contractor.jpg)
 <p class="image-credit">Photo by <a href="https://unsplash.com/@photographer?utm_source=fieldcrewai_blog&utm_medium=referral">Photographer</a> on <a href="https://unsplash.com/?utm_source=fieldcrewai_blog&utm_medium=referral">Unsplash</a></p>
 
-**Want a second set of eyes on the workflow behind this?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment).
+**Want a second set of eyes on the workflow behind this?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7).
 
 ## The Economics of the Missed Call in Home Services
 
@@ -122,7 +122,7 @@ Not always. Many contractors already have enough tooling inside their phone syst
 The recommendations come from practical reviews of small-business workflows, contractor websites, CRM setup, missed-call handling, estimate follow-up, source tracking, and review request processes. The goal is to point out operational gaps you can verify in your own business instead of relying on vague marketing claims.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 <div class="author-bio">
