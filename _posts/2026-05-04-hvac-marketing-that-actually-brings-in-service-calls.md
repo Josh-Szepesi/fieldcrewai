@@ -52,7 +52,7 @@ Automated SMS follow-up is the most powerful tool in your arsenal. When a lead f
 Automation also solves the "missed call" problem. Even the best offices miss calls during peak season or after hours. A missed call text-back system can automatically detect a missed call from a new number and send a text saying, "Sorry we missed your call! We are out on a service visit right now. How can we help you today?" This simple automation turns a frustrated caller into a pending conversation before they have a chance to dial the next contractor on the list.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 Beyond the initial contact, automation should handle your nurture sequences. Not every lead is an emergency. Some people are just starting to research a full system replacement. If you do not have an automated way to stay in front of them, they may forget you by the time they are ready to approve the install. A simple email sequence that provides value, like "5 Signs Your Heat Pump is Dying" or "How to Lower Your Summer Electric Bill," keeps your name at the top of their mind without requiring any manual effort from your office staff.
@@ -99,7 +99,7 @@ Yes, but not for the reasons you might think. A blog is not just about getting p
 HVAC marketing is not about being the loudest person in the room; it is about being the most visible person when the room gets too hot or too cold. By focusing on high-intent channels like Google Local Services Ads, optimizing your website for conversions rather than aesthetics, and using automation to win the race to the lead, you can build a predictable engine for growth. Stop chasing vanity metrics and start focusing on the only number that matters: the number of booked appointments on your board. If you execute these strategies with discipline, you will not just survive the peak seasons; you will dominate your local market year-round.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 ## Related Reading
