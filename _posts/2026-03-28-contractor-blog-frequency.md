@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How Often Should a Contractor Publish Blog Content?"
+title: "Contractor Blog Frequency: How Often to Post for Real SEO Results"
 date: 2026-03-28
-description: "Wondering about the right contractor blog frequency? Here's what actually moves the needle for home services SEO and how to stay consistent without burning out."
+description: "Most contractors post too rarely to rank. This covers the posting cadence that actually builds authority in home services, which topics move the needle, and how to stay consistent without burning out."
 image: /assets/images/2026-03-28-contractor-blog-frequency.jpg
 tags: [seo, content-marketing, contractors, blogging]
 ---
@@ -86,3 +86,4 @@ The goal isn't to be a prolific publisher. It's to have a growing library of use
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi, who brings 8+ years in tech and firsthand experience turning messy small-business workflows into practical systems. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>
 </div>
+
