@@ -40,7 +40,7 @@ Another vital feature is service area validation. There is nothing more frustrat
 
 Automated reminders are the final piece of the puzzle. No-shows are a massive drain on resources. A system that sends a confirmation email immediately, followed by a text message reminder 24 hours and 1 hour before the appointment, can reduce no-show rates by up to 50 percent. These messages should also include a way for the customer to reschedule or cancel with enough notice for you to fill the slot. This level of communication portrays your business as professional and organized, setting the stage for a successful sales presentation.
 
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 
 ## Integrating Online Scheduling into Your Marketing Funnel
 
@@ -110,7 +110,7 @@ Not always. Many contractors already have enough tooling inside their phone syst
 The recommendations come from practical reviews of small-business workflows, contractor websites, CRM setup, missed-call handling, estimate follow-up, source tracking, and review request processes. The goal is to point out operational gaps you can verify in your own business instead of relying on vague marketing claims.
 
 ---
-**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). You'll walk away knowing exactly what to fix first and what to leave alone.
+**Not sure what's worth automating in your operation?** [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll walk away knowing exactly what to fix first and what to leave alone.
 ---
 
 <div class="author-bio">
