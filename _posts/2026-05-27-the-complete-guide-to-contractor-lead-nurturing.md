@@ -74,7 +74,7 @@ Use merge tags to insert the homeowner's name, address, and specific project det
 
 Set boundaries on your automation. Never automate more than three consecutive touches without a human intervention. If a lead replies to an automated email, that reply should break the workflow and notify a real person immediately. Automation should handle the first impression and the routine follow-ups. Humans should handle objections, pricing discussions, and closing. The handoff between automation and human contact should feel seamless to the homeowner, not jarring.
 
-If your current follow-up process is eating up hours every week, [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://fieldcrewai.com/#assessment). We will map out exactly which parts of your nurturing workflow can be automated and which parts need your personal touch.
+If your current follow-up process is eating up hours every week, [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). We will map out exactly which parts of your nurturing workflow can be automated and which parts need your personal touch.
 
 ## Common Mistakes That Kill Contractor Lead Nurturing Campaigns
 
@@ -138,7 +138,7 @@ Yes. Whether you are a roofer, HVAC technician, plumber, or general remodeler, h
 
 ---
 
-**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://fieldcrewai.com/#assessment). You'll get a written summary of your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
+**Ready to find out what's worth building in your operation?** [Book a free Operations Assessment with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7). You'll get a written summary of your top automation opportunities and a prioritized build plan -- 30 minutes, no pitch, just a practical plan for your business.
 
 ---
 
