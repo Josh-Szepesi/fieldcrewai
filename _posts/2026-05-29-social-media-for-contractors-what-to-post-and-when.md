@@ -3,7 +3,7 @@ layout: post
 title: Social Media for Contractors: What to Post and When
 date: 2026-05-29
 permalink: /blog/2026-05-29-social-media-for-contractors-what-to-post-and-when
-hero_image: /assets/images/2026-05-29-social-media-for-contractors-what-to-post-and-when.jpg
+hero_image: /assets/images/2026-05-29-social-media-for-contractors-what-to-post-and-when-hero.jpg
 hero_alt: Social Media for Contractors: What to Post and When — contractor working on a job site
 ---
 The landscape of [home services](/) has changed dramatically over the last decade. In the past, a yellow pages ad or a simple yard sign might have been enough to keep your phone ringing. Today, homeowners are looking for more than just a phone number; they are looking for a digital handshake. This is where social media contractors can truly shine and separate themselves from the competition. When a homeowner realizes their roof is leaking or their HVAC system has finally given up, they often turn to social platforms to see who their neighbors are using and what kind of work those companies actually produce.
