@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "How to Price Roofing Jobs: A Guide to Profit and Growth"
 description: "Learn how to price roofing jobs to maximize your profit margins while remaining competitive. Use our framework to stop guessing and start winning more bids."
 date: 2026-04-19

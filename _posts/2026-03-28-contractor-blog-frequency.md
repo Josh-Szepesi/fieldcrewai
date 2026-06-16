@@ -29,7 +29,7 @@ When we say quality, we don't mean literary prose. We mean: does this post answe
 
 A post titled "Roof Replacement Cost in [City]: What Homeowners Actually Pay in 2026" that breaks down price ranges by job type, material, and house size will rank and convert. A post titled "Why We Love Our Customers" won't rank for anything and won't generate leads.
 
-Every post should target one specific keyword or question. That question should be something real homeowners in your service area are actually typing into Google. As we covered in [the 5 keywords every roofing contractor should own](/blog/2026-03-28-roofing-contractor-local-seo-keywords/), the best keywords for contractors are local and commercial -- close to an actual buying decision.
+Every post should target one specific keyword or question. That question should be something real homeowners in your service area are actually typing into Google. The best keywords for contractors are local and commercial -- close to an actual buying decision.
 
 [Talk to Field Crew AI about building a content plan for your contracting business.](https://calendar.app.google/TMH9qe1HEjaXDLDF7)
 

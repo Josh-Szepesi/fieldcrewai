@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Best CRM for Roofing Contractors in 2026"
 date: 2026-06-13
 description: "Comparing the best CRM for roofing contractors in 2026: Jobber, ServiceTitan, Housecall Pro, AccuLynx, and HubSpot. Find the right fit for your crew size."

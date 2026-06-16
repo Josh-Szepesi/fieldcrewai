@@ -127,7 +127,6 @@ This 30-minute review will do more for your business than most software investme
 
 - [How to Write a Contractor Estimate That Wins More Jobs](https://fieldcrewai.com/blog/contractor-estimate-writing/)
 - [How to Build a Simple Sales Pipeline for a Home Services Business](https://fieldcrewai.com/blog/contractor-sales-pipeline/)
-- [How to Price Roofing Jobs: A Guide to Profit and Growth](https://fieldcrewai.com/blog/how-to-price-roofing-jobs/)
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
   <p>Field Crew AI is run by Josh Szepesi, who brings 8+ years in tech and firsthand experience turning messy small-business workflows into practical systems. We help home services contractors automate their marketing, lead follow-up, and operations so they can focus on the work that actually pays. <a href="https://fieldcrewai.com">Learn more at fieldcrewai.com</a>.</p>

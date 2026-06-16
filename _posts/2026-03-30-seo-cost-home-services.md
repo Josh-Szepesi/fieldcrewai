@@ -50,7 +50,7 @@ A $299/month package might include automated citation submission and a login to 
 
 Before signing anything, ask for a scope of work with specific monthly deliverables. How many content pieces? Who writes them? What does GBP management actually include? How do they build links, and can they show examples? If they can't answer those questions clearly, keep looking.
 
-If you want to understand the keyword side of this before spending money, [our breakdown of local SEO keywords for roofing contractors](/blog/roofing-contractor-local-seo-keywords/) shows exactly what to look for when evaluating your market. The same framework applies to HVAC, plumbing, and electrical.
+If you want to understand the keyword side of this before spending money, start by mapping the local service searches people use when they are ready to book. The same framework applies to HVAC, plumbing, electrical, and exterior service businesses.
 
 [Book a free 30-minute Efficiency Discovery Call with Field Crew AI](https://calendar.app.google/TMH9qe1HEjaXDLDF7) - we'll review your current site, your market, and tell you which marketing investment makes the most sense for your business right now.
 

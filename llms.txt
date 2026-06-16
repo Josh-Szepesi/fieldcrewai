@@ -1,6 +1,6 @@
 # Field Crew AI
 
-> Field Crew AI is a contractor operations consulting service for home services businesses. It helps roofing, HVAC, plumbing, electrical, and exterior contractors find and fix gaps in their lead flow, automate follow-up, and improve operations without replacing what already works.
+> Field Crew AI is a contractor operations consulting service for home services businesses. It helps HVAC, plumbing, electrical, and exterior contractors find and fix gaps in their lead flow, automate follow-up, and improve operations without replacing what already works.
 
 ## About
 
@@ -40,7 +40,7 @@ Available at: https://fieldcrewai.com/checklist
 
 ## Target Audience
 
-- Residential and commercial home services contractors: roofing, HVAC, plumbing, electrical, exterior
+- Residential and commercial home services contractors: HVAC, plumbing, electrical, exterior
 - Business owners at any stage: solo operators, crew-based established businesses, multi-crew $2M+ operations
 - Primary focus: North America (Canada and US)
 
@@ -49,7 +49,7 @@ Available at: https://fieldcrewai.com/checklist
 - Contractor lead flow and pipeline management
 - Missed-call handling and after-hours response
 - Estimate follow-up automation
-- CRM utilization (Jobber, Roofr, AccuLynx, ServiceTitan, Housecall Pro)
+- CRM utilization (Jobber, ServiceTitan, Housecall Pro, Service Fusion)
 - Google Business Profile optimization
 - Review request process automation
 - Lead source attribution and ad spend ROI

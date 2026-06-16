@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "The 5 Keywords Every Roofing Contractor Should Own in Their City"
 date: 2026-03-28
 description: "Most roofers target the wrong search terms and miss jobs. Here are the roofing contractor local SEO keywords that actually drive calls in your city."

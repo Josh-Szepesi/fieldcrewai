@@ -68,7 +68,7 @@ The timing matters. 24 hours after the job is when the experience is fresh and t
 
 Automation is most powerful when it connects your different systems. Your website captures the lead, your CRM stores the contact, your automation sends the follow-up, and your review system builds the social proof that makes the next person pick up the phone.
 
-None of these pieces are expensive or technically complex on their own. The challenge is knowing what to set up first and getting it configured correctly. As we covered in [why most contractor websites don't generate leads](/blog/2026-03-28-contractor-website-leads/), the lead capture piece has to be working before follow-up automation can do anything. And once your site is generating traffic through [local SEO keywords](/blog/2026-03-28-roofing-contractor-local-seo-keywords/), automation ensures none of those incoming leads go cold. Get your site converting first, then layer in the automation.
+None of these pieces are expensive or technically complex on their own. The challenge is knowing what to set up first and getting it configured correctly. As we covered in [why most contractor websites don't generate leads](/blog/2026-03-28-contractor-website-leads/), the lead capture piece has to be working before follow-up automation can do anything. Once your site is generating traffic through local SEO, automation ensures none of those incoming leads go cold. Get your site converting first, then layer in the automation.
 
 The HVAC companies that are pulling ahead in competitive markets aren't necessarily spending more on advertising. They're just losing fewer of the leads they already get.
 

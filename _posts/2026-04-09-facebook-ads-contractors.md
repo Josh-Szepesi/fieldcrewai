@@ -119,7 +119,6 @@ No. Smartphone photos and videos taken on a real job site outperform polished st
 ## Related Reading
 
 - [What Does SEO Actually Cost for a Home Services Business?](https://fieldcrewai.com/blog/seo-cost-home-services/)
-- [The 5 Keywords Every Roofing Contractor Should Own in Their City](https://fieldcrewai.com/blog/roofing-contractor-local-seo-keywords/)
 - [Setting Up a Referral Program for Your Contracting Business](https://fieldcrewai.com/blog/contractor-referral-program/)
 
 <div class="author-bio">

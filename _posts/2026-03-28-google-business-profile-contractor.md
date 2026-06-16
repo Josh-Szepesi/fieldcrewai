@@ -82,7 +82,7 @@ A Google Business Profile contractor listing isn't set-and-forget. Here's a quic
 - Check that your hours and contact info are still accurate
 - Review your insights to see what searches are triggering your listing
 
-Combined with a strong SEO keyword strategy -- as outlined in [the 5 keywords every roofing contractor should own](/blog/2026-03-28-roofing-contractor-local-seo-keywords/) -- a well-maintained Google Business Profile contractor listing is the foundation of local search dominance. These two pieces together, done consistently, will put you ahead of the majority of contractors in most local markets.
+Combined with a strong local SEO keyword strategy, a well-maintained Google Business Profile contractor listing is the foundation of local search dominance. These two pieces together, done consistently, will put you ahead of the majority of contractors in most local markets.
 
 <div class="post-cta">
 <strong>Not sure what's worth automating in your operation?</strong> <a href="https://calendar.app.google/TMH9qe1HEjaXDLDF7">Book a free 30-minute Efficiency Discovery Call with Field Crew AI</a> . You'll walk away knowing exactly what to fix first and what to leave alone.
@@ -92,7 +92,6 @@ Combined with a strong SEO keyword strategy -- as outlined in [the 5 keywords ev
 ## Related Reading
 
 - [How to Get More 5-Star Google Reviews as a Contractor](https://fieldcrewai.com/blog/contractor-google-reviews/)
-- [The 5 Keywords Every Roofing Contractor Should Own in Their City](https://fieldcrewai.com/blog/roofing-contractor-local-seo-keywords/)
 - [Why Most Contractor Websites Don't Generate Leads (And What to Do About It)](https://fieldcrewai.com/blog/contractor-website-leads/)
 <div class="author-bio">
   <p><strong>About Field Crew AI</strong></p>
